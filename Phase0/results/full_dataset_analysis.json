@@ -1,0 +1,132 @@
+{
+  "total_frames": 2984250,
+  "total_decoded": 654013,
+  "decode_rate": 0.21915489654016923,
+  "unique_pgns": 9,
+  "unique_signals": 19,
+  "pgn_distribution": {
+    "129025": {
+      "name": "PositionRapid",
+      "count": 152824,
+      "percentage": 23.367119613830305
+    },
+    "128267": {
+      "name": "WaterDepth",
+      "count": 50940,
+      "percentage": 7.788836001730852
+    },
+    "127245": {
+      "name": "Rudder",
+      "count": 125093,
+      "percentage": 19.126989830477374
+    },
+    "129026": {
+      "name": "COGSOG",
+      "count": 61131,
+      "percentage": 9.347061908555334
+    },
+    "128259": {
+      "name": "Speed",
+      "count": 10097,
+      "percentage": 1.5438531038373855
+    },
+    "127257": {
+      "name": "Attitude",
+      "count": 50941,
+      "percentage": 7.7889889038902895
+    },
+    "127250": {
+      "name": "Heading",
+      "count": 50941,
+      "percentage": 7.7889889038902895
+    },
+    "127251": {
+      "name": "RateOfTurn",
+      "count": 50941,
+      "percentage": 7.7889889038902895
+    },
+    "130306": {
+      "name": "WindSpeed",
+      "count": 101105,
+      "percentage": 15.459172829897877
+    }
+  },
+  "signal_distribution": {
+    "PositionRapid.latitude": {
+      "count": 152824,
+      "percentage": 23.367119613830305
+    },
+    "PositionRapid.longitude": {
+      "count": 152824,
+      "percentage": 23.367119613830305
+    },
+    "WaterDepth.depth": {
+      "count": 50940,
+      "percentage": 7.788836001730852
+    },
+    "WaterDepth.offset": {
+      "count": 50940,
+      "percentage": 7.788836001730852
+    },
+    "Rudder.rudder_angle_order": {
+      "count": 125093,
+      "percentage": 19.126989830477374
+    },
+    "Rudder.rudder_position": {
+      "count": 125093,
+      "percentage": 19.126989830477374
+    },
+    "COGSOG.cog": {
+      "count": 61131,
+      "percentage": 9.347061908555334
+    },
+    "COGSOG.sog": {
+      "count": 61131,
+      "percentage": 9.347061908555334
+    },
+    "Speed.speed_water": {
+      "count": 10097,
+      "percentage": 1.5438531038373855
+    },
+    "Speed.speed_ground": {
+      "count": 10097,
+      "percentage": 1.5438531038373855
+    },
+    "Attitude.yaw": {
+      "count": 50941,
+      "percentage": 7.7889889038902895
+    },
+    "Attitude.pitch": {
+      "count": 50941,
+      "percentage": 7.7889889038902895
+    },
+    "Attitude.roll": {
+      "count": 50941,
+      "percentage": 7.7889889038902895
+    },
+    "Heading.heading": {
+      "count": 50941,
+      "percentage": 7.7889889038902895
+    },
+    "Heading.deviation": {
+      "count": 50941,
+      "percentage": 7.7889889038902895
+    },
+    "Heading.variation": {
+      "count": 50941,
+      "percentage": 7.7889889038902895
+    },
+    "RateOfTurn.rate_of_turn": {
+      "count": 50941,
+      "percentage": 7.7889889038902895
+    },
+    "WindSpeed.wind_speed": {
+      "count": 101105,
+      "percentage": 15.459172829897877
+    },
+    "WindSpeed.wind_angle": {
+      "count": 101105,
+      "percentage": 15.459172829897877
+    }
+  }
+}
