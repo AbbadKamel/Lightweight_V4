@@ -600,7 +600,7 @@ Phase1/
 |------------|--------|
 | **Python** | Rich ML ecosystem (TensorFlow, scikit-learn) |
 | **Pandas** | Efficient time-series manipulation |
-| **NumPy** | Fast numerical operations |
+| **NumPy**  | Fast numerical operations |
 | **Matplotlib** | Comprehensive visualization |
 | **scikit-learn** | Normalization, train/test split |
 | **TensorFlow/Keras** | CNN implementation (Phase 2) |

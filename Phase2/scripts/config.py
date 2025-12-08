@@ -30,6 +30,7 @@ NUM_FEATURES = 60  # 15 signals × 4 aggregations (mean, max, min, std)
 # CANShield original: [25, 50, 75, 100] timesteps
 # Our adaptation for NMEA 2000 (slower update rates):
 TIME_STEPS = [50, 75, 100]  # Window sizes in seconds
+WINDOW_SIZES = TIME_STEPS   # Alias for consistency with train_cascade.py
 # 50s = Detect rapid maneuvers/attacks
 # 75s = Medium-term patterns (course changes)
 # 100s = Long-term patterns (navigation drift)
@@ -39,6 +40,7 @@ TIME_STEPS_QUICK = [50]
 
 # Default window size for single-model training
 DEFAULT_TIME_STEP = 50
+DEFAULT_WINDOW_SIZE = DEFAULT_TIME_STEP  # Alias
 
 # ============================================================================
 # MULTI-SCALE SAMPLING PERIODS (Temporal resolution)
@@ -114,15 +116,52 @@ NUM_MODELS_QUICK = 1
 #   Input: (50 timesteps, 60 features) but data sampled every 5s
 
 # ============================================================================
-# TRAINING CONFIGURATION
+# TRAINING CONFIGURATION (CANShield paper Section V.B.1)
 # ============================================================================
-MAX_EPOCHS = 500
-BATCH_SIZE = 64
-LEARNING_RATE = 0.001
-EARLY_STOPPING_PATIENCE = 50
+# These values match the CANShield paper exactly
+
+# Optimizer: Adam with specific hyperparameters
+LEARNING_RATE = 0.0002   # CANShield: "learning rate of 0.0002"
+ADAM_BETA_1 = 0.5        # CANShield paper
+ADAM_BETA_2 = 0.99       # CANShield paper
+
+# Training parameters
+BATCH_SIZE = 128         # CANShield paper
+MAX_EPOCHS = 100         # With early stopping (CANShield uses 500 without)
+EARLY_STOPPING_PATIENCE = 10  # Stop if val_loss doesn't improve for 10 epochs
+
+# Learning rate reduction on plateau
+REDUCE_LR_PATIENCE = 5   # Reduce LR if no improvement for 5 epochs
+REDUCE_LR_FACTOR = 0.5   # Multiply LR by 0.5
+REDUCE_LR_MIN = 1e-6     # Minimum learning rate
+
+# Dynamic batch size for small datasets
+MIN_BATCH_SIZE = 8       # Fallback for configs with very few samples
 
 # Save best model based on validation loss
 SAVE_BEST_MODEL = True
+
+def get_effective_batch_size(num_samples: int) -> int:
+    """
+    Get the effective batch size based on available samples.
+    
+    For configurations with very few samples (e.g., 100s/10s = 32 samples),
+    we reduce batch size to ensure proper training.
+    
+    Args:
+        num_samples: Number of training samples
+    
+    Returns:
+        Effective batch size to use
+    """
+    if num_samples >= BATCH_SIZE:
+        return BATCH_SIZE
+    elif num_samples >= BATCH_SIZE // 2:
+        return BATCH_SIZE // 2  # 64
+    elif num_samples >= BATCH_SIZE // 4:
+        return BATCH_SIZE // 4  # 32
+    else:
+        return max(MIN_BATCH_SIZE, num_samples // 2)
 
 # ============================================================================
 # DETECTION THRESHOLDS (CANShield approach)
