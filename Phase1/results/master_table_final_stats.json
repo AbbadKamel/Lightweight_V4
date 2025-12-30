@@ -1,0 +1,32 @@
+{
+  "total_rows": 5095,
+  "total_columns": 60,
+  "total_signals": 15,
+  "features_per_signal": 4,
+  "duration_seconds": 5094.101,
+  "signals": [
+    "wind_speed",
+    "wind_angle",
+    "yaw",
+    "cog",
+    "heading",
+    "roll",
+    "rudder_angle_order",
+    "rudder_position",
+    "rate_of_turn",
+    "depth",
+    "variation",
+    "latitude",
+    "longitude",
+    "pitch",
+    "sog"
+  ],
+  "removed_signals": [
+    "speed_water"
+  ],
+  "normalization": "Min-Max scaling to [0, 1]",
+  "value_range": {
+    "min": 0.0,
+    "max": 1.0
+  }
+}

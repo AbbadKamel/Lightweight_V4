@@ -1,0 +1,458 @@
+[
+  {
+    "type": "suppress",
+    "signal": "rate_of_turn",
+    "start": 28,
+    "end": 34
+  },
+  {
+    "type": "suppress",
+    "signal": "variation",
+    "start": 25,
+    "end": 34
+  },
+  {
+    "type": "suppress",
+    "signal": "latitude",
+    "start": 25,
+    "end": 39
+  },
+  {
+    "type": "suppress",
+    "signal": "variation",
+    "start": 8,
+    "end": 20
+  },
+  {
+    "type": "suppress",
+    "signal": "latitude",
+    "start": 26,
+    "end": 38
+  },
+  {
+    "type": "suppress",
+    "signal": "wind_speed",
+    "start": 23,
+    "end": 33
+  },
+  {
+    "type": "suppress",
+    "signal": "rudder_angle_order",
+    "start": 31,
+    "end": 38
+  },
+  {
+    "type": "suppress",
+    "signal": "rate_of_turn",
+    "start": 33,
+    "end": 44
+  },
+  {
+    "type": "suppress",
+    "signal": "latitude",
+    "start": 25,
+    "end": 35
+  },
+  {
+    "type": "suppress",
+    "signal": "sog",
+    "start": 14,
+    "end": 19
+  },
+  {
+    "type": "suppress",
+    "signal": "variation",
+    "start": 31,
+    "end": 40
+  },
+  {
+    "type": "suppress",
+    "signal": "cog",
+    "start": 35,
+    "end": 40
+  },
+  {
+    "type": "suppress",
+    "signal": "wind_speed",
+    "start": 29,
+    "end": 34
+  },
+  {
+    "type": "suppress",
+    "signal": "rudder_position",
+    "start": 20,
+    "end": 29
+  },
+  {
+    "type": "suppress",
+    "signal": "roll",
+    "start": 33,
+    "end": 43
+  },
+  {
+    "type": "suppress",
+    "signal": "wind_angle",
+    "start": 20,
+    "end": 30
+  },
+  {
+    "type": "suppress",
+    "signal": "rate_of_turn",
+    "start": 25,
+    "end": 39
+  },
+  {
+    "type": "suppress",
+    "signal": "heading",
+    "start": 15,
+    "end": 20
+  },
+  {
+    "type": "suppress",
+    "signal": "heading",
+    "start": 34,
+    "end": 39
+  },
+  {
+    "type": "suppress",
+    "signal": "yaw",
+    "start": 25,
+    "end": 34
+  },
+  {
+    "type": "suppress",
+    "signal": "pitch",
+    "start": 16,
+    "end": 25
+  },
+  {
+    "type": "suppress",
+    "signal": "heading",
+    "start": 18,
+    "end": 28
+  },
+  {
+    "type": "suppress",
+    "signal": "rate_of_turn",
+    "start": 32,
+    "end": 41
+  },
+  {
+    "type": "suppress",
+    "signal": "variation",
+    "start": 30,
+    "end": 43
+  },
+  {
+    "type": "suppress",
+    "signal": "roll",
+    "start": 37,
+    "end": 42
+  },
+  {
+    "type": "suppress",
+    "signal": "variation",
+    "start": 5,
+    "end": 14
+  },
+  {
+    "type": "suppress",
+    "signal": "cog",
+    "start": 20,
+    "end": 31
+  },
+  {
+    "type": "suppress",
+    "signal": "longitude",
+    "start": 29,
+    "end": 37
+  },
+  {
+    "type": "suppress",
+    "signal": "rudder_position",
+    "start": 28,
+    "end": 35
+  },
+  {
+    "type": "suppress",
+    "signal": "pitch",
+    "start": 5,
+    "end": 16
+  },
+  {
+    "type": "suppress",
+    "signal": "cog",
+    "start": 6,
+    "end": 13
+  },
+  {
+    "type": "suppress",
+    "signal": "rudder_angle_order",
+    "start": 6,
+    "end": 17
+  },
+  {
+    "type": "suppress",
+    "signal": "cog",
+    "start": 6,
+    "end": 13
+  },
+  {
+    "type": "suppress",
+    "signal": "yaw",
+    "start": 11,
+    "end": 20
+  },
+  {
+    "type": "suppress",
+    "signal": "wind_angle",
+    "start": 23,
+    "end": 35
+  },
+  {
+    "type": "suppress",
+    "signal": "latitude",
+    "start": 7,
+    "end": 20
+  },
+  {
+    "type": "suppress",
+    "signal": "roll",
+    "start": 15,
+    "end": 28
+  },
+  {
+    "type": "suppress",
+    "signal": "cog",
+    "start": 33,
+    "end": 44
+  },
+  {
+    "type": "suppress",
+    "signal": "wind_angle",
+    "start": 10,
+    "end": 16
+  },
+  {
+    "type": "suppress",
+    "signal": "pitch",
+    "start": 7,
+    "end": 19
+  },
+  {
+    "type": "suppress",
+    "signal": "yaw",
+    "start": 15,
+    "end": 28
+  },
+  {
+    "type": "suppress",
+    "signal": "longitude",
+    "start": 32,
+    "end": 43
+  },
+  {
+    "type": "suppress",
+    "signal": "cog",
+    "start": 25,
+    "end": 36
+  },
+  {
+    "type": "suppress",
+    "signal": "roll",
+    "start": 22,
+    "end": 30
+  },
+  {
+    "type": "suppress",
+    "signal": "wind_speed",
+    "start": 31,
+    "end": 44
+  },
+  {
+    "type": "suppress",
+    "signal": "depth",
+    "start": 20,
+    "end": 34
+  },
+  {
+    "type": "suppress",
+    "signal": "cog",
+    "start": 8,
+    "end": 16
+  },
+  {
+    "type": "suppress",
+    "signal": "longitude",
+    "start": 7,
+    "end": 16
+  },
+  {
+    "type": "suppress",
+    "signal": "yaw",
+    "start": 13,
+    "end": 19
+  },
+  {
+    "type": "suppress",
+    "signal": "pitch",
+    "start": 17,
+    "end": 22
+  },
+  {
+    "type": "suppress",
+    "signal": "wind_speed",
+    "start": 27,
+    "end": 41
+  },
+  {
+    "type": "suppress",
+    "signal": "sog",
+    "start": 22,
+    "end": 34
+  },
+  {
+    "type": "suppress",
+    "signal": "sog",
+    "start": 24,
+    "end": 37
+  },
+  {
+    "type": "suppress",
+    "signal": "rudder_angle_order",
+    "start": 5,
+    "end": 12
+  },
+  {
+    "type": "suppress",
+    "signal": "rudder_position",
+    "start": 29,
+    "end": 39
+  },
+  {
+    "type": "suppress",
+    "signal": "wind_angle",
+    "start": 24,
+    "end": 29
+  },
+  {
+    "type": "suppress",
+    "signal": "longitude",
+    "start": 15,
+    "end": 24
+  },
+  {
+    "type": "suppress",
+    "signal": "pitch",
+    "start": 15,
+    "end": 29
+  },
+  {
+    "type": "suppress",
+    "signal": "latitude",
+    "start": 37,
+    "end": 43
+  },
+  {
+    "type": "suppress",
+    "signal": "yaw",
+    "start": 7,
+    "end": 20
+  },
+  {
+    "type": "suppress",
+    "signal": "rate_of_turn",
+    "start": 8,
+    "end": 21
+  },
+  {
+    "type": "suppress",
+    "signal": "latitude",
+    "start": 34,
+    "end": 40
+  },
+  {
+    "type": "suppress",
+    "signal": "rate_of_turn",
+    "start": 19,
+    "end": 24
+  },
+  {
+    "type": "suppress",
+    "signal": "latitude",
+    "start": 7,
+    "end": 14
+  },
+  {
+    "type": "suppress",
+    "signal": "cog",
+    "start": 26,
+    "end": 36
+  },
+  {
+    "type": "suppress",
+    "signal": "latitude",
+    "start": 18,
+    "end": 29
+  },
+  {
+    "type": "suppress",
+    "signal": "depth",
+    "start": 6,
+    "end": 20
+  },
+  {
+    "type": "suppress",
+    "signal": "wind_speed",
+    "start": 29,
+    "end": 34
+  },
+  {
+    "type": "suppress",
+    "signal": "longitude",
+    "start": 26,
+    "end": 32
+  },
+  {
+    "type": "suppress",
+    "signal": "rudder_position",
+    "start": 27,
+    "end": 39
+  },
+  {
+    "type": "suppress",
+    "signal": "wind_speed",
+    "start": 16,
+    "end": 21
+  },
+  {
+    "type": "suppress",
+    "signal": "latitude",
+    "start": 17,
+    "end": 30
+  },
+  {
+    "type": "suppress",
+    "signal": "rudder_angle_order",
+    "start": 24,
+    "end": 33
+  },
+  {
+    "type": "suppress",
+    "signal": "heading",
+    "start": 24,
+    "end": 34
+  },
+  {
+    "type": "suppress",
+    "signal": "longitude",
+    "start": 15,
+    "end": 27
+  },
+  {
+    "type": "suppress",
+    "signal": "wind_speed",
+    "start": 9,
+    "end": 14
+  }
+]

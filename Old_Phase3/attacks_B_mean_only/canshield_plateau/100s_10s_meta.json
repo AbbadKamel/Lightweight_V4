@@ -1,0 +1,44 @@
+[
+  {
+    "type": "plateau",
+    "signal": "rudder_position",
+    "start": 60,
+    "end": 81
+  },
+  {
+    "type": "plateau",
+    "signal": "rudder_angle_order",
+    "start": 33,
+    "end": 69
+  },
+  {
+    "type": "plateau",
+    "signal": "sog",
+    "start": 38,
+    "end": 49
+  },
+  {
+    "type": "plateau",
+    "signal": "pitch",
+    "start": 18,
+    "end": 35
+  },
+  {
+    "type": "plateau",
+    "signal": "rudder_angle_order",
+    "start": 23,
+    "end": 58
+  },
+  {
+    "type": "plateau",
+    "signal": "rudder_angle_order",
+    "start": 51,
+    "end": 83
+  },
+  {
+    "type": "plateau",
+    "signal": "heading",
+    "start": 56,
+    "end": 85
+  }
+]

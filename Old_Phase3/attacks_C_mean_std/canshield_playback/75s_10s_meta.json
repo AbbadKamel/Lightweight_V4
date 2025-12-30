@@ -1,0 +1,44 @@
+[
+  {
+    "type": "playback",
+    "signal": "cog",
+    "start": 33,
+    "end": 53
+  },
+  {
+    "type": "playback",
+    "signal": "heading",
+    "start": 25,
+    "end": 59
+  },
+  {
+    "type": "playback",
+    "signal": "yaw",
+    "start": 11,
+    "end": 32
+  },
+  {
+    "type": "playback",
+    "signal": "rudder_angle_order",
+    "start": 17,
+    "end": 36
+  },
+  {
+    "type": "playback",
+    "signal": "depth",
+    "start": 5,
+    "end": 39
+  },
+  {
+    "type": "playback",
+    "signal": "wind_angle",
+    "start": 12,
+    "end": 45
+  },
+  {
+    "type": "playback",
+    "signal": "depth",
+    "start": 9,
+    "end": 28
+  }
+]

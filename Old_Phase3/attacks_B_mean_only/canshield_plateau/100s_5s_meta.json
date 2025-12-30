@@ -1,0 +1,86 @@
+[
+  {
+    "type": "plateau",
+    "signal": "latitude",
+    "start": 43,
+    "end": 64
+  },
+  {
+    "type": "plateau",
+    "signal": "longitude",
+    "start": 33,
+    "end": 72
+  },
+  {
+    "type": "plateau",
+    "signal": "rate_of_turn",
+    "start": 26,
+    "end": 37
+  },
+  {
+    "type": "plateau",
+    "signal": "latitude",
+    "start": 51,
+    "end": 82
+  },
+  {
+    "type": "plateau",
+    "signal": "heading",
+    "start": 35,
+    "end": 52
+  },
+  {
+    "type": "plateau",
+    "signal": "roll",
+    "start": 31,
+    "end": 47
+  },
+  {
+    "type": "plateau",
+    "signal": "variation",
+    "start": 72,
+    "end": 82
+  },
+  {
+    "type": "plateau",
+    "signal": "variation",
+    "start": 52,
+    "end": 79
+  },
+  {
+    "type": "plateau",
+    "signal": "depth",
+    "start": 11,
+    "end": 40
+  },
+  {
+    "type": "plateau",
+    "signal": "rudder_position",
+    "start": 24,
+    "end": 45
+  },
+  {
+    "type": "plateau",
+    "signal": "heading",
+    "start": 39,
+    "end": 50
+  },
+  {
+    "type": "plateau",
+    "signal": "rudder_angle_order",
+    "start": 29,
+    "end": 66
+  },
+  {
+    "type": "plateau",
+    "signal": "wind_speed",
+    "start": 38,
+    "end": 50
+  },
+  {
+    "type": "plateau",
+    "signal": "depth",
+    "start": 23,
+    "end": 39
+  }
+]

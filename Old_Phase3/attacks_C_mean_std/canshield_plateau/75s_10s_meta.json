@@ -1,0 +1,44 @@
+[
+  {
+    "type": "plateau",
+    "signal": "heading",
+    "start": 14,
+    "end": 39
+  },
+  {
+    "type": "plateau",
+    "signal": "heading",
+    "start": 40,
+    "end": 49
+  },
+  {
+    "type": "plateau",
+    "signal": "roll",
+    "start": 43,
+    "end": 64
+  },
+  {
+    "type": "plateau",
+    "signal": "pitch",
+    "start": 22,
+    "end": 44
+  },
+  {
+    "type": "plateau",
+    "signal": "variation",
+    "start": 11,
+    "end": 35
+  },
+  {
+    "type": "plateau",
+    "signal": "latitude",
+    "start": 45,
+    "end": 57
+  },
+  {
+    "type": "plateau",
+    "signal": "depth",
+    "start": 18,
+    "end": 37
+  }
+]

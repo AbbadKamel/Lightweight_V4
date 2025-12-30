@@ -1,0 +1,50 @@
+[
+  {
+    "type": "playback",
+    "signal": "latitude",
+    "start": 4,
+    "end": 17
+  },
+  {
+    "type": "playback",
+    "signal": "heading",
+    "start": 24,
+    "end": 46
+  },
+  {
+    "type": "playback",
+    "signal": "wind_speed",
+    "start": 33,
+    "end": 45
+  },
+  {
+    "type": "playback",
+    "signal": "variation",
+    "start": 26,
+    "end": 40
+  },
+  {
+    "type": "playback",
+    "signal": "sog",
+    "start": 22,
+    "end": 37
+  },
+  {
+    "type": "playback",
+    "signal": "latitude",
+    "start": 11,
+    "end": 34
+  },
+  {
+    "type": "playback",
+    "signal": "rudder_angle_order",
+    "start": 19,
+    "end": 38
+  },
+  {
+    "type": "playback",
+    "signal": "variation",
+    "start": 14,
+    "end": 30
+  }
+]

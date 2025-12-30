@@ -1,0 +1,44 @@
+[
+  {
+    "type": "playback",
+    "signal": "longitude",
+    "start": 30,
+    "end": 73
+  },
+  {
+    "type": "playback",
+    "signal": "variation",
+    "start": 53,
+    "end": 98
+  },
+  {
+    "type": "playback",
+    "signal": "latitude",
+    "start": 16,
+    "end": 64
+  },
+  {
+    "type": "playback",
+    "signal": "roll",
+    "start": 31,
+    "end": 58
+  },
+  {
+    "type": "playback",
+    "signal": "rate_of_turn",
+    "start": 52,
+    "end": 97
+  },
+  {
+    "type": "playback",
+    "signal": "roll",
+    "start": 31,
+    "end": 79
+  },
+  {
+    "type": "playback",
+    "signal": "rate_of_turn",
+    "start": 49,
+    "end": 95
+  }
+]

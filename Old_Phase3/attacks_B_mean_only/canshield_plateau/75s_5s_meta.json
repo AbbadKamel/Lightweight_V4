@@ -1,0 +1,92 @@
+[
+  {
+    "type": "plateau",
+    "signal": "depth",
+    "start": 25,
+    "end": 38
+  },
+  {
+    "type": "plateau",
+    "signal": "depth",
+    "start": 15,
+    "end": 27
+  },
+  {
+    "type": "plateau",
+    "signal": "rate_of_turn",
+    "start": 45,
+    "end": 61
+  },
+  {
+    "type": "plateau",
+    "signal": "longitude",
+    "start": 47,
+    "end": 64
+  },
+  {
+    "type": "plateau",
+    "signal": "variation",
+    "start": 17,
+    "end": 43
+  },
+  {
+    "type": "plateau",
+    "signal": "heading",
+    "start": 8,
+    "end": 19
+  },
+  {
+    "type": "plateau",
+    "signal": "latitude",
+    "start": 20,
+    "end": 31
+  },
+  {
+    "type": "plateau",
+    "signal": "rudder_angle_order",
+    "start": 44,
+    "end": 55
+  },
+  {
+    "type": "plateau",
+    "signal": "cog",
+    "start": 11,
+    "end": 21
+  },
+  {
+    "type": "plateau",
+    "signal": "cog",
+    "start": 14,
+    "end": 37
+  },
+  {
+    "type": "plateau",
+    "signal": "depth",
+    "start": 28,
+    "end": 41
+  },
+  {
+    "type": "plateau",
+    "signal": "depth",
+    "start": 50,
+    "end": 64
+  },
+  {
+    "type": "plateau",
+    "signal": "depth",
+    "start": 37,
+    "end": 59
+  },
+  {
+    "type": "plateau",
+    "signal": "cog",
+    "start": 42,
+    "end": 66
+  },
+  {
+    "type": "plateau",
+    "signal": "longitude",
+    "start": 42,
+    "end": 62
+  }
+]

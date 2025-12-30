@@ -1,0 +1,21 @@
+{
+    "num_features": 15,
+    "feature_names": [
+        "wind_speed_mean",
+        "wind_angle_mean",
+        "yaw_mean",
+        "cog_mean",
+        "heading_mean",
+        "roll_mean",
+        "rudder_angle_order_mean",
+        "rudder_position_mean",
+        "rate_of_turn_mean",
+        "depth_mean",
+        "variation_mean",
+        "latitude_mean",
+        "longitude_mean",
+        "pitch_mean",
+        "sog_mean"
+    ],
+    "dataset_path": "/home/abbad241/Desktop/PhD/Journals_Articles_Papers/Next paper/Lightweight_IA_V_3/Phase1/results/master_table_B_mean_only.csv"
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "type": "continuous",
+    "signal": "heading",
+    "start": 6,
+    "end": 29
+  },
+  {
+    "type": "continuous",
+    "signal": "longitude",
+    "start": 17,
+    "end": 30
+  },
+  {
+    "type": "continuous",
+    "signal": "longitude",
+    "start": 20,
+    "end": 43
+  },
+  {
+    "type": "continuous",
+    "signal": "yaw",
+    "start": 11,
+    "end": 38
+  },
+  {
+    "type": "continuous",
+    "signal": "heading",
+    "start": 20,
+    "end": 33
+  },
+  {
+    "type": "continuous",
+    "signal": "rate_of_turn",
+    "start": 27,
+    "end": 44
+  },
+  {
+    "type": "continuous",
+    "signal": "depth",
+    "start": 10,
+    "end": 27
+  },
+  {
+    "type": "continuous",
+    "signal": "variation",
+    "start": 12,
+    "end": 34
+  }
+]

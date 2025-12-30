@@ -1,0 +1,95 @@
+{
+  "scenario": "A_aggressive",
+  "config": "50s_10s",
+  "n_normal": 8,
+  "n_attacks": 8,
+  "n_total": 16,
+  "attack_shape": [
+    8,
+    50,
+    60,
+    1
+  ],
+  "attacks": [
+    {
+      "type": "spike",
+      "signal": "sog",
+      "intensity": 0.6739250170129785,
+      "duration": 0.6343961371527034,
+      "start": 7,
+      "end": 38,
+      "window_idx": 0,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "longitude",
+      "intensity": 0.6900812647802258,
+      "duration": 0.6605439265445712,
+      "start": 7,
+      "end": 40,
+      "window_idx": 1,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "constant",
+      "signal": "longitude",
+      "intensity": 0,
+      "duration": 0.5844976630756633,
+      "start": 6,
+      "end": 35,
+      "window_idx": 2,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "constant",
+      "signal": "depth",
+      "intensity": 0,
+      "duration": 0.6269453766370381,
+      "start": 16,
+      "end": 47,
+      "window_idx": 3,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "replay",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.8289908469748739,
+      "source": 0,
+      "target": 9,
+      "window_idx": 4,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "heading",
+      "intensity": 0.9698094792766871,
+      "duration": 0.693617534798189,
+      "start": 5,
+      "end": 39,
+      "window_idx": 5,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "constant",
+      "signal": "longitude",
+      "intensity": 0,
+      "duration": 0.7227952233179854,
+      "start": 1,
+      "end": 37,
+      "window_idx": 6,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "latitude",
+      "intensity": 0.9949861618325269,
+      "duration": 0.5932071645232082,
+      "start": 7,
+      "end": 36,
+      "window_idx": 7,
+      "scenario": "aggressive"
+    }
+  ]
+}

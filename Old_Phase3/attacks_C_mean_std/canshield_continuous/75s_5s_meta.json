@@ -1,0 +1,92 @@
+[
+  {
+    "type": "continuous",
+    "signal": "rate_of_turn",
+    "start": 32,
+    "end": 56
+  },
+  {
+    "type": "continuous",
+    "signal": "pitch",
+    "start": 21,
+    "end": 56
+  },
+  {
+    "type": "continuous",
+    "signal": "depth",
+    "start": 34,
+    "end": 52
+  },
+  {
+    "type": "continuous",
+    "signal": "rudder_position",
+    "start": 24,
+    "end": 52
+  },
+  {
+    "type": "continuous",
+    "signal": "roll",
+    "start": 16,
+    "end": 57
+  },
+  {
+    "type": "continuous",
+    "signal": "depth",
+    "start": 23,
+    "end": 46
+  },
+  {
+    "type": "continuous",
+    "signal": "rate_of_turn",
+    "start": 25,
+    "end": 64
+  },
+  {
+    "type": "continuous",
+    "signal": "pitch",
+    "start": 10,
+    "end": 54
+  },
+  {
+    "type": "continuous",
+    "signal": "wind_speed",
+    "start": 42,
+    "end": 60
+  },
+  {
+    "type": "continuous",
+    "signal": "variation",
+    "start": 29,
+    "end": 58
+  },
+  {
+    "type": "continuous",
+    "signal": "variation",
+    "start": 13,
+    "end": 56
+  },
+  {
+    "type": "continuous",
+    "signal": "rudder_angle_order",
+    "start": 10,
+    "end": 54
+  },
+  {
+    "type": "continuous",
+    "signal": "variation",
+    "start": 21,
+    "end": 43
+  },
+  {
+    "type": "continuous",
+    "signal": "wind_angle",
+    "start": 19,
+    "end": 62
+  },
+  {
+    "type": "continuous",
+    "signal": "variation",
+    "start": 11,
+    "end": 42
+  }
+]

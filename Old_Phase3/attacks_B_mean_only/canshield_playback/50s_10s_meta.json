@@ -1,0 +1,50 @@
+[
+  {
+    "type": "playback",
+    "signal": "depth",
+    "start": 0,
+    "end": 12
+  },
+  {
+    "type": "playback",
+    "signal": "roll",
+    "start": 4,
+    "end": 24
+  },
+  {
+    "type": "playback",
+    "signal": "latitude",
+    "start": 9,
+    "end": 24
+  },
+  {
+    "type": "playback",
+    "signal": "heading",
+    "start": 17,
+    "end": 27
+  },
+  {
+    "type": "playback",
+    "signal": "sog",
+    "start": 18,
+    "end": 34
+  },
+  {
+    "type": "playback",
+    "signal": "wind_angle",
+    "start": 10,
+    "end": 23
+  },
+  {
+    "type": "playback",
+    "signal": "yaw",
+    "start": 13,
+    "end": 36
+  },
+  {
+    "type": "playback",
+    "signal": "wind_speed",
+    "start": 11,
+    "end": 34
+  }
+]

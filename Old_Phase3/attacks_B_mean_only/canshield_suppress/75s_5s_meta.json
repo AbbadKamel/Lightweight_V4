@@ -1,0 +1,92 @@
+[
+  {
+    "type": "suppress",
+    "signal": "heading",
+    "start": 25,
+    "end": 40
+  },
+  {
+    "type": "suppress",
+    "signal": "yaw",
+    "start": 16,
+    "end": 28
+  },
+  {
+    "type": "suppress",
+    "signal": "rudder_angle_order",
+    "start": 42,
+    "end": 63
+  },
+  {
+    "type": "suppress",
+    "signal": "depth",
+    "start": 19,
+    "end": 36
+  },
+  {
+    "type": "suppress",
+    "signal": "rudder_angle_order",
+    "start": 26,
+    "end": 36
+  },
+  {
+    "type": "suppress",
+    "signal": "depth",
+    "start": 24,
+    "end": 38
+  },
+  {
+    "type": "suppress",
+    "signal": "longitude",
+    "start": 10,
+    "end": 19
+  },
+  {
+    "type": "suppress",
+    "signal": "yaw",
+    "start": 45,
+    "end": 58
+  },
+  {
+    "type": "suppress",
+    "signal": "longitude",
+    "start": 14,
+    "end": 30
+  },
+  {
+    "type": "suppress",
+    "signal": "roll",
+    "start": 29,
+    "end": 37
+  },
+  {
+    "type": "suppress",
+    "signal": "variation",
+    "start": 35,
+    "end": 55
+  },
+  {
+    "type": "suppress",
+    "signal": "rudder_position",
+    "start": 22,
+    "end": 39
+  },
+  {
+    "type": "suppress",
+    "signal": "yaw",
+    "start": 20,
+    "end": 32
+  },
+  {
+    "type": "suppress",
+    "signal": "latitude",
+    "start": 9,
+    "end": 22
+  },
+  {
+    "type": "suppress",
+    "signal": "roll",
+    "start": 47,
+    "end": 64
+  }
+]

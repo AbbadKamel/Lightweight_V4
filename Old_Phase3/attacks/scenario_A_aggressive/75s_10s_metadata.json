@@ -1,0 +1,85 @@
+{
+  "scenario": "A_aggressive",
+  "config": "75s_10s",
+  "n_normal": 7,
+  "n_attacks": 7,
+  "n_total": 14,
+  "attack_shape": [
+    7,
+    75,
+    60,
+    1
+  ],
+  "attacks": [
+    {
+      "type": "spike",
+      "signal": "depth",
+      "intensity": 0.9310505447155418,
+      "duration": 0.507859088325374,
+      "start": 18,
+      "end": 56,
+      "window_idx": 0,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "sog",
+      "intensity": 0.8385676064552776,
+      "duration": 0.9981217134965825,
+      "start": -2,
+      "end": 72,
+      "window_idx": 1,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "replay",
+      "signal": "depth",
+      "intensity": 0,
+      "duration": 0.6937415878579989,
+      "source": 0,
+      "target": 23,
+      "window_idx": 2,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "longitude",
+      "intensity": 0.5813013006482294,
+      "duration": 0.8200358108978871,
+      "start": 7,
+      "end": 68,
+      "window_idx": 3,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "scaling",
+      "signal": "depth",
+      "scale": 3.0,
+      "duration": 0.8180361549733289,
+      "start": 6,
+      "end": 67,
+      "window_idx": 4,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "drift",
+      "signal": "depth",
+      "intensity": 0.8777560442577149,
+      "duration": 0.9869974003731206,
+      "start": 0,
+      "max_drift": 0.8777560442577149,
+      "window_idx": 5,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "scaling",
+      "signal": "latitude",
+      "scale": 0.3,
+      "duration": 0.6270431359158423,
+      "start": 13,
+      "end": 60,
+      "window_idx": 6,
+      "scenario": "aggressive"
+    }
+  ]
+}

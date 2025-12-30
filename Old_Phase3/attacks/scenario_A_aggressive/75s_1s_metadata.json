@@ -1,0 +1,775 @@
+{
+  "scenario": "A_aggressive",
+  "config": "75s_1s",
+  "n_normal": 76,
+  "n_attacks": 76,
+  "n_total": 152,
+  "attack_shape": [
+    76,
+    75,
+    60,
+    1
+  ],
+  "attacks": [
+    {
+      "type": "drift",
+      "signal": "latitude",
+      "intensity": 0.9927945086376725,
+      "duration": 0.6902669859235787,
+      "start": 11,
+      "max_drift": 0.9927945086376725,
+      "window_idx": 0,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "latitude",
+      "intensity": 0.8600585243133028,
+      "duration": 0.7180644188546191,
+      "start": 10,
+      "end": 63,
+      "window_idx": 1,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "noise",
+      "signal": "latitude",
+      "intensity": 0.767830147011052,
+      "duration": 0.6737145945701788,
+      "start": 10,
+      "end": 60,
+      "window_idx": 2,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "scaling",
+      "signal": "heading",
+      "scale": 0.5,
+      "duration": 0.8563693765528486,
+      "start": 6,
+      "end": 70,
+      "window_idx": 3,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "noise",
+      "signal": "sog",
+      "intensity": 0.9404731348033715,
+      "duration": 0.5433887739265711,
+      "start": 27,
+      "end": 67,
+      "window_idx": 4,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "constant",
+      "signal": "heading",
+      "intensity": 0,
+      "duration": 0.8719356634882222,
+      "start": 4,
+      "end": 69,
+      "window_idx": 5,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "scaling",
+      "signal": "longitude",
+      "scale": 0.5,
+      "duration": 0.6222611578316827,
+      "start": 12,
+      "end": 58,
+      "window_idx": 6,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "constant",
+      "signal": "latitude",
+      "intensity": 0,
+      "duration": 0.5267370818998052,
+      "start": 29,
+      "end": 68,
+      "window_idx": 7,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "scaling",
+      "signal": "cog",
+      "scale": 0.5,
+      "duration": 0.6830717382515696,
+      "start": 12,
+      "end": 63,
+      "window_idx": 8,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "replay",
+      "signal": "heading",
+      "intensity": 0,
+      "duration": 0.734025104893709,
+      "source": 0,
+      "target": 20,
+      "window_idx": 9,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "replay",
+      "signal": "latitude",
+      "intensity": 0,
+      "duration": 0.9101274537406843,
+      "source": 0,
+      "target": 7,
+      "window_idx": 10,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "replay",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.8112456161884141,
+      "source": 0,
+      "target": 15,
+      "window_idx": 11,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "scaling",
+      "signal": "depth",
+      "scale": 0.5,
+      "duration": 0.7120825203835545,
+      "start": 1,
+      "end": 54,
+      "window_idx": 12,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "replay",
+      "signal": "cog",
+      "intensity": 0,
+      "duration": 0.6452969597466847,
+      "source": 0,
+      "target": 27,
+      "window_idx": 13,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "replay",
+      "signal": "cog",
+      "intensity": 0,
+      "duration": 0.7803147335199363,
+      "source": 0,
+      "target": 17,
+      "window_idx": 14,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "drift",
+      "signal": "longitude",
+      "intensity": 0.6393096465371473,
+      "duration": 0.5854289246540952,
+      "start": 15,
+      "max_drift": 0.6393096465371473,
+      "window_idx": 15,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "replay",
+      "signal": "latitude",
+      "intensity": 0,
+      "duration": 0.7111906678162834,
+      "source": 0,
+      "target": 22,
+      "window_idx": 16,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "scaling",
+      "signal": "longitude",
+      "scale": 3.0,
+      "duration": 0.7094660598542339,
+      "start": 14,
+      "end": 67,
+      "window_idx": 17,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "depth",
+      "intensity": 0.592875759792745,
+      "duration": 0.8228104359547335,
+      "start": 6,
+      "end": 67,
+      "window_idx": 18,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "scaling",
+      "signal": "depth",
+      "scale": 0.3,
+      "duration": 0.9229789177628172,
+      "start": 3,
+      "end": 72,
+      "window_idx": 19,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "drift",
+      "signal": "cog",
+      "intensity": 0.6379254626665263,
+      "duration": 0.9548081717952739,
+      "start": 1,
+      "max_drift": 0.6379254626665263,
+      "window_idx": 20,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "latitude",
+      "intensity": 0.517358739827886,
+      "duration": 0.5842130900392122,
+      "start": 15,
+      "end": 58,
+      "window_idx": 21,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "longitude",
+      "intensity": 0.6541456983942948,
+      "duration": 0.758899028763004,
+      "start": 7,
+      "end": 63,
+      "window_idx": 22,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "depth",
+      "intensity": 0.645826375221118,
+      "duration": 0.601131217542313,
+      "start": 17,
+      "end": 62,
+      "window_idx": 23,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "scaling",
+      "signal": "heading",
+      "scale": 0.5,
+      "duration": 0.9439770895378699,
+      "start": 1,
+      "end": 71,
+      "window_idx": 24,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "latitude",
+      "intensity": 0.8762426786596389,
+      "duration": 0.823202298087448,
+      "start": 7,
+      "end": 68,
+      "window_idx": 25,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "drift",
+      "signal": "longitude",
+      "intensity": 0.9303871877538648,
+      "duration": 0.9719231743173569,
+      "start": 1,
+      "max_drift": 0.9303871877538648,
+      "window_idx": 26,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "replay",
+      "signal": "longitude",
+      "intensity": 0,
+      "duration": 0.5885861521754292,
+      "source": 0,
+      "target": 31,
+      "window_idx": 27,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "constant",
+      "signal": "latitude",
+      "intensity": 0,
+      "duration": 0.8486653709509084,
+      "start": 2,
+      "end": 65,
+      "window_idx": 28,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "drift",
+      "signal": "latitude",
+      "intensity": 0.6152141872558814,
+      "duration": 0.9745429929180427,
+      "start": 0,
+      "max_drift": 0.6152141872558814,
+      "window_idx": 29,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "drift",
+      "signal": "cog",
+      "intensity": 0.9418103112537357,
+      "duration": 0.9052179591474919,
+      "start": 3,
+      "max_drift": 0.9418103112537357,
+      "window_idx": 30,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "noise",
+      "signal": "sog",
+      "intensity": 0.9723647504205555,
+      "duration": 0.5965879391156285,
+      "start": 4,
+      "end": 48,
+      "window_idx": 31,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "noise",
+      "signal": "sog",
+      "intensity": 0.7318280154563481,
+      "duration": 0.9700916479505347,
+      "start": 0,
+      "end": 72,
+      "window_idx": 32,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "cog",
+      "intensity": 0.8155356026603635,
+      "duration": 0.6511812341826104,
+      "start": 17,
+      "end": 65,
+      "window_idx": 33,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "drift",
+      "signal": "longitude",
+      "intensity": 0.8102065533275423,
+      "duration": 0.577486308177958,
+      "start": 15,
+      "max_drift": 0.8102065533275423,
+      "window_idx": 34,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "scaling",
+      "signal": "cog",
+      "scale": 0.3,
+      "duration": 0.6844015767923104,
+      "start": 16,
+      "end": 67,
+      "window_idx": 35,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "cog",
+      "intensity": 0.8297431529305674,
+      "duration": 0.9262198053557893,
+      "start": 0,
+      "end": 69,
+      "window_idx": 36,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "noise",
+      "signal": "depth",
+      "intensity": 0.8392462798711182,
+      "duration": 0.9614442025095382,
+      "start": 0,
+      "end": 72,
+      "window_idx": 37,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "constant",
+      "signal": "longitude",
+      "intensity": 0,
+      "duration": 0.6521474603227396,
+      "start": 23,
+      "end": 71,
+      "window_idx": 38,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "noise",
+      "signal": "longitude",
+      "intensity": 0.6960703649730433,
+      "duration": 0.8686370199434983,
+      "start": 6,
+      "end": 71,
+      "window_idx": 39,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "noise",
+      "signal": "depth",
+      "intensity": 0.8604194241377989,
+      "duration": 0.8204936651642056,
+      "start": 1,
+      "end": 62,
+      "window_idx": 40,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "drift",
+      "signal": "heading",
+      "intensity": 0.729678225094629,
+      "duration": 0.9904657028961394,
+      "start": 0,
+      "max_drift": 0.729678225094629,
+      "window_idx": 41,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "scaling",
+      "signal": "latitude",
+      "scale": 0.5,
+      "duration": 0.7639984247060185,
+      "start": 15,
+      "end": 72,
+      "window_idx": 42,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "heading",
+      "intensity": 0.555616007662975,
+      "duration": 0.5789209818482406,
+      "start": 22,
+      "end": 65,
+      "window_idx": 43,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "scaling",
+      "signal": "heading",
+      "scale": 0.5,
+      "duration": 0.6304733783753187,
+      "start": 18,
+      "end": 65,
+      "window_idx": 44,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "replay",
+      "signal": "cog",
+      "intensity": 0,
+      "duration": 0.5757135758201255,
+      "source": 0,
+      "target": 32,
+      "window_idx": 45,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "scaling",
+      "signal": "sog",
+      "scale": 0.5,
+      "duration": 0.6068417073017982,
+      "start": 8,
+      "end": 53,
+      "window_idx": 46,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "replay",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.5542192210422026,
+      "source": 0,
+      "target": 34,
+      "window_idx": 47,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "scaling",
+      "signal": "cog",
+      "scale": 3.0,
+      "duration": 0.7837227952494439,
+      "start": 8,
+      "end": 66,
+      "window_idx": 48,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "replay",
+      "signal": "cog",
+      "intensity": 0,
+      "duration": 0.8089593269228356,
+      "source": 0,
+      "target": 15,
+      "window_idx": 49,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "depth",
+      "intensity": 0.581038269619167,
+      "duration": 0.6165247007400882,
+      "start": 18,
+      "end": 64,
+      "window_idx": 50,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "depth",
+      "intensity": 0.9223062513469604,
+      "duration": 0.8969419154940612,
+      "start": 2,
+      "end": 69,
+      "window_idx": 51,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "scaling",
+      "signal": "depth",
+      "scale": 2.0,
+      "duration": 0.888343550123329,
+      "start": 4,
+      "end": 70,
+      "window_idx": 52,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "cog",
+      "intensity": 0.6289249721299419,
+      "duration": 0.6993637127964218,
+      "start": 7,
+      "end": 59,
+      "window_idx": 53,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "constant",
+      "signal": "depth",
+      "intensity": 0,
+      "duration": 0.5797751098777416,
+      "start": 27,
+      "end": 70,
+      "window_idx": 54,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "constant",
+      "signal": "latitude",
+      "intensity": 0,
+      "duration": 0.6708870851390145,
+      "start": 7,
+      "end": 57,
+      "window_idx": 55,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "replay",
+      "signal": "heading",
+      "intensity": 0,
+      "duration": 0.7957894751806874,
+      "source": 0,
+      "target": 16,
+      "window_idx": 56,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "sog",
+      "intensity": 0.9982202241786958,
+      "duration": 0.6841598454892867,
+      "start": 9,
+      "end": 60,
+      "window_idx": 57,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "scaling",
+      "signal": "depth",
+      "scale": 2.0,
+      "duration": 0.5646077722878561,
+      "start": 18,
+      "end": 60,
+      "window_idx": 58,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "replay",
+      "signal": "cog",
+      "intensity": 0,
+      "duration": 0.8899914848219115,
+      "source": 0,
+      "target": 9,
+      "window_idx": 59,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "noise",
+      "signal": "sog",
+      "intensity": 0.6243262871204396,
+      "duration": 0.8065885210910502,
+      "start": 1,
+      "end": 61,
+      "window_idx": 60,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "sog",
+      "intensity": 0.5763357526645785,
+      "duration": 0.7971505553026736,
+      "start": 7,
+      "end": 66,
+      "window_idx": 61,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "drift",
+      "signal": "cog",
+      "intensity": 0.5067805643534207,
+      "duration": 0.8636917676131718,
+      "start": 5,
+      "max_drift": 0.5067805643534207,
+      "window_idx": 62,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "constant",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.578673366762413,
+      "start": 14,
+      "end": 57,
+      "window_idx": 63,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "scaling",
+      "signal": "latitude",
+      "scale": 3.0,
+      "duration": 0.6330901701546865,
+      "start": 25,
+      "end": 72,
+      "window_idx": 64,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "cog",
+      "intensity": 0.5563015101006512,
+      "duration": 0.6160096862527686,
+      "start": 9,
+      "end": 55,
+      "window_idx": 65,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "noise",
+      "signal": "latitude",
+      "intensity": 0.9878235214573239,
+      "duration": 0.7487585600872027,
+      "start": 5,
+      "end": 61,
+      "window_idx": 66,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "noise",
+      "signal": "latitude",
+      "intensity": 0.7307674242237647,
+      "duration": 0.9859391596270218,
+      "start": 0,
+      "end": 73,
+      "window_idx": 67,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "drift",
+      "signal": "cog",
+      "intensity": 0.7823482604714691,
+      "duration": 0.9234696765403971,
+      "start": 2,
+      "max_drift": 0.7823482604714691,
+      "window_idx": 68,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "constant",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.7816319671182451,
+      "start": 12,
+      "end": 70,
+      "window_idx": 69,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "sog",
+      "intensity": 0.7642453967424685,
+      "duration": 0.6686554891937783,
+      "start": 12,
+      "end": 62,
+      "window_idx": 70,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "noise",
+      "signal": "longitude",
+      "intensity": 0.9682910147562875,
+      "duration": 0.8334815748191038,
+      "start": 9,
+      "end": 71,
+      "window_idx": 71,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "constant",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.9040626799180034,
+      "start": 4,
+      "end": 71,
+      "window_idx": 72,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "noise",
+      "signal": "heading",
+      "intensity": 0.819495975268247,
+      "duration": 0.9876807898993157,
+      "start": 0,
+      "end": 74,
+      "window_idx": 73,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "replay",
+      "signal": "heading",
+      "intensity": 0,
+      "duration": 0.9972295626404537,
+      "source": 0,
+      "target": 1,
+      "window_idx": 74,
+      "scenario": "aggressive"
+    },
+    {
+      "type": "spike",
+      "signal": "depth",
+      "intensity": 0.691239963262144,
+      "duration": 0.6227100974076484,
+      "start": 14,
+      "end": 60,
+      "window_idx": 75,
+      "scenario": "aggressive"
+    }
+  ]
+}

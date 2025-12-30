@@ -1,0 +1,92 @@
+[
+  {
+    "type": "playback",
+    "signal": "yaw",
+    "start": 29,
+    "end": 61
+  },
+  {
+    "type": "playback",
+    "signal": "cog",
+    "start": 38,
+    "end": 64
+  },
+  {
+    "type": "playback",
+    "signal": "pitch",
+    "start": 4,
+    "end": 24
+  },
+  {
+    "type": "playback",
+    "signal": "pitch",
+    "start": 22,
+    "end": 39
+  },
+  {
+    "type": "playback",
+    "signal": "longitude",
+    "start": 32,
+    "end": 68
+  },
+  {
+    "type": "playback",
+    "signal": "roll",
+    "start": 14,
+    "end": 50
+  },
+  {
+    "type": "playback",
+    "signal": "variation",
+    "start": 1,
+    "end": 30
+  },
+  {
+    "type": "playback",
+    "signal": "longitude",
+    "start": 11,
+    "end": 29
+  },
+  {
+    "type": "playback",
+    "signal": "yaw",
+    "start": 14,
+    "end": 37
+  },
+  {
+    "type": "playback",
+    "signal": "rudder_position",
+    "start": 30,
+    "end": 56
+  },
+  {
+    "type": "playback",
+    "signal": "longitude",
+    "start": 38,
+    "end": 74
+  },
+  {
+    "type": "playback",
+    "signal": "cog",
+    "start": 14,
+    "end": 39
+  },
+  {
+    "type": "playback",
+    "signal": "sog",
+    "start": 33,
+    "end": 50
+  },
+  {
+    "type": "playback",
+    "signal": "longitude",
+    "start": 11,
+    "end": 26
+  },
+  {
+    "type": "playback",
+    "signal": "variation",
+    "start": 12,
+    "end": 34
+  }
+]

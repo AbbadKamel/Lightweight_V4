@@ -1,0 +1,44 @@
+[
+  {
+    "type": "continuous",
+    "signal": "depth",
+    "start": 17,
+    "end": 68
+  },
+  {
+    "type": "continuous",
+    "signal": "pitch",
+    "start": 21,
+    "end": 72
+  },
+  {
+    "type": "continuous",
+    "signal": "roll",
+    "start": 47,
+    "end": 87
+  },
+  {
+    "type": "continuous",
+    "signal": "longitude",
+    "start": 18,
+    "end": 75
+  },
+  {
+    "type": "continuous",
+    "signal": "latitude",
+    "start": 23,
+    "end": 78
+  },
+  {
+    "type": "continuous",
+    "signal": "yaw",
+    "start": 16,
+    "end": 46
+  },
+  {
+    "type": "continuous",
+    "signal": "latitude",
+    "start": 47,
+    "end": 89
+  }
+]

@@ -1,0 +1,95 @@
+{
+  "scenario": "B_stealthy",
+  "config": "50s_10s",
+  "n_normal": 8,
+  "n_attacks": 8,
+  "n_total": 16,
+  "attack_shape": [
+    8,
+    50,
+    60,
+    1
+  ],
+  "attacks": [
+    {
+      "type": "drift",
+      "signal": "sog",
+      "intensity": 0.2793612046247371,
+      "duration": 0.22210961164001997,
+      "start": 19,
+      "max_drift": 0.2793612046247371,
+      "window_idx": 0,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "replay",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.4220873193473913,
+      "source": 0,
+      "target": 29,
+      "window_idx": 1,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "noise",
+      "signal": "heading",
+      "intensity": 0.10811688178427013,
+      "duration": 0.2340603232744484,
+      "start": 0,
+      "end": 11,
+      "window_idx": 2,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "replay",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.3211057679524475,
+      "source": 0,
+      "target": 32,
+      "window_idx": 3,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "heading",
+      "intensity": 0.17207888944362368,
+      "duration": 0.45327583985644887,
+      "start": 13,
+      "max_drift": 0.17207888944362368,
+      "window_idx": 4,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "replay",
+      "signal": "depth",
+      "intensity": 0,
+      "duration": 0.4444333249865676,
+      "source": 0,
+      "target": 28,
+      "window_idx": 5,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "replay",
+      "signal": "cog",
+      "intensity": 0,
+      "duration": 0.41285605936879644,
+      "source": 0,
+      "target": 30,
+      "window_idx": 6,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "noise",
+      "signal": "depth",
+      "intensity": 0.13825235246991102,
+      "duration": 0.28176077285575435,
+      "start": 2,
+      "end": 16,
+      "window_idx": 7,
+      "scenario": "stealthy"
+    }
+  ]
+}

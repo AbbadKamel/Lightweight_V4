@@ -1,0 +1,44 @@
+[
+  {
+    "type": "playback",
+    "signal": "latitude",
+    "start": 9,
+    "end": 37
+  },
+  {
+    "type": "playback",
+    "signal": "pitch",
+    "start": 7,
+    "end": 27
+  },
+  {
+    "type": "playback",
+    "signal": "wind_speed",
+    "start": 20,
+    "end": 44
+  },
+  {
+    "type": "playback",
+    "signal": "longitude",
+    "start": 47,
+    "end": 65
+  },
+  {
+    "type": "playback",
+    "signal": "rudder_position",
+    "start": 27,
+    "end": 59
+  },
+  {
+    "type": "playback",
+    "signal": "yaw",
+    "start": 12,
+    "end": 41
+  },
+  {
+    "type": "playback",
+    "signal": "pitch",
+    "start": 29,
+    "end": 58
+  }
+]

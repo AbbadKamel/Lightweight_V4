@@ -1,0 +1,50 @@
+[
+  {
+    "type": "suppress",
+    "signal": "rate_of_turn",
+    "start": 23,
+    "end": 33
+  },
+  {
+    "type": "suppress",
+    "signal": "variation",
+    "start": 5,
+    "end": 17
+  },
+  {
+    "type": "suppress",
+    "signal": "cog",
+    "start": 13,
+    "end": 24
+  },
+  {
+    "type": "suppress",
+    "signal": "depth",
+    "start": 11,
+    "end": 24
+  },
+  {
+    "type": "suppress",
+    "signal": "depth",
+    "start": 8,
+    "end": 20
+  },
+  {
+    "type": "suppress",
+    "signal": "wind_speed",
+    "start": 28,
+    "end": 34
+  },
+  {
+    "type": "suppress",
+    "signal": "sog",
+    "start": 9,
+    "end": 18
+  },
+  {
+    "type": "suppress",
+    "signal": "roll",
+    "start": 5,
+    "end": 19
+  }
+]

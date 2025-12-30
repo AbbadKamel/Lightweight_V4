@@ -1,0 +1,92 @@
+[
+  {
+    "type": "continuous",
+    "signal": "sog",
+    "start": 21,
+    "end": 41
+  },
+  {
+    "type": "continuous",
+    "signal": "depth",
+    "start": 21,
+    "end": 43
+  },
+  {
+    "type": "continuous",
+    "signal": "wind_angle",
+    "start": 11,
+    "end": 27
+  },
+  {
+    "type": "continuous",
+    "signal": "depth",
+    "start": 18,
+    "end": 38
+  },
+  {
+    "type": "continuous",
+    "signal": "cog",
+    "start": 12,
+    "end": 41
+  },
+  {
+    "type": "continuous",
+    "signal": "yaw",
+    "start": 15,
+    "end": 37
+  },
+  {
+    "type": "continuous",
+    "signal": "pitch",
+    "start": 9,
+    "end": 34
+  },
+  {
+    "type": "continuous",
+    "signal": "rudder_position",
+    "start": 20,
+    "end": 38
+  },
+  {
+    "type": "continuous",
+    "signal": "heading",
+    "start": 25,
+    "end": 41
+  },
+  {
+    "type": "continuous",
+    "signal": "longitude",
+    "start": 12,
+    "end": 35
+  },
+  {
+    "type": "continuous",
+    "signal": "sog",
+    "start": 9,
+    "end": 31
+  },
+  {
+    "type": "continuous",
+    "signal": "latitude",
+    "start": 9,
+    "end": 33
+  },
+  {
+    "type": "continuous",
+    "signal": "heading",
+    "start": 12,
+    "end": 29
+  },
+  {
+    "type": "continuous",
+    "signal": "longitude",
+    "start": 6,
+    "end": 18
+  },
+  {
+    "type": "continuous",
+    "signal": "pitch",
+    "start": 19,
+    "end": 31
+  }
+]

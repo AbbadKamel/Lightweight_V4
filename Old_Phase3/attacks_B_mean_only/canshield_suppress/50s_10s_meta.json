@@ -1,0 +1,50 @@
+[
+  {
+    "type": "suppress",
+    "signal": "rate_of_turn",
+    "start": 7,
+    "end": 14
+  },
+  {
+    "type": "suppress",
+    "signal": "cog",
+    "start": 34,
+    "end": 40
+  },
+  {
+    "type": "suppress",
+    "signal": "longitude",
+    "start": 30,
+    "end": 36
+  },
+  {
+    "type": "suppress",
+    "signal": "longitude",
+    "start": 17,
+    "end": 23
+  },
+  {
+    "type": "suppress",
+    "signal": "rudder_angle_order",
+    "start": 15,
+    "end": 26
+  },
+  {
+    "type": "suppress",
+    "signal": "rudder_position",
+    "start": 23,
+    "end": 34
+  },
+  {
+    "type": "suppress",
+    "signal": "variation",
+    "start": 17,
+    "end": 31
+  },
+  {
+    "type": "suppress",
+    "signal": "yaw",
+    "start": 11,
+    "end": 16
+  }
+]

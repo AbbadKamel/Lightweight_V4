@@ -1,0 +1,54 @@
+[
+  {
+    "name": "Baseline (All 9)",
+    "models": 9,
+    "threshold": "max",
+    "recall": 1.0,
+    "precision": 0.9771986970684039,
+    "f1": 0.9884678747940692,
+    "fpr": 1.0,
+    "tp": 300,
+    "fp": 7,
+    "tn": 0,
+    "fn": 0
+  },
+  {
+    "name": "Baseline (3 Experts)",
+    "models": 3,
+    "threshold": "75",
+    "recall": 0.9533333333333334,
+    "precision": 0.9794520547945206,
+    "f1": 0.9662162162162162,
+    "fpr": 0.8571428571428571,
+    "tp": 286,
+    "fp": 6,
+    "tn": 1,
+    "fn": 14
+  },
+  {
+    "name": "N2KShield (4 Stable)",
+    "models": 4,
+    "threshold": "75",
+    "recall": 0.6633333333333333,
+    "precision": 1.0,
+    "f1": 0.7975951903807615,
+    "fpr": 0.0,
+    "tp": 199,
+    "fp": 0,
+    "tn": 15,
+    "fn": 101
+  },
+  {
+    "name": "N2KShield (6 Models)",
+    "models": 6,
+    "threshold": "75",
+    "recall": 0.8533333333333334,
+    "precision": 0.9808429118773946,
+    "f1": 0.9126559714795008,
+    "fpr": 0.35714285714285715,
+    "tp": 256,
+    "fp": 5,
+    "tn": 9,
+    "fn": 44
+  }
+]

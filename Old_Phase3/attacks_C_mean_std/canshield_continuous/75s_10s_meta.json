@@ -1,0 +1,44 @@
+[
+  {
+    "type": "continuous",
+    "signal": "wind_speed",
+    "start": 8,
+    "end": 38
+  },
+  {
+    "type": "continuous",
+    "signal": "wind_angle",
+    "start": 9,
+    "end": 50
+  },
+  {
+    "type": "continuous",
+    "signal": "rudder_position",
+    "start": 30,
+    "end": 55
+  },
+  {
+    "type": "continuous",
+    "signal": "yaw",
+    "start": 9,
+    "end": 35
+  },
+  {
+    "type": "continuous",
+    "signal": "sog",
+    "start": 20,
+    "end": 51
+  },
+  {
+    "type": "continuous",
+    "signal": "cog",
+    "start": 7,
+    "end": 51
+  },
+  {
+    "type": "continuous",
+    "signal": "yaw",
+    "start": 39,
+    "end": 62
+  }
+]

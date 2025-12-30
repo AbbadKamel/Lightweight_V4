@@ -1,0 +1,86 @@
+[
+  {
+    "type": "suppress",
+    "signal": "rudder_position",
+    "start": 40,
+    "end": 50
+  },
+  {
+    "type": "suppress",
+    "signal": "roll",
+    "start": 44,
+    "end": 56
+  },
+  {
+    "type": "suppress",
+    "signal": "latitude",
+    "start": 34,
+    "end": 59
+  },
+  {
+    "type": "suppress",
+    "signal": "pitch",
+    "start": 52,
+    "end": 79
+  },
+  {
+    "type": "suppress",
+    "signal": "heading",
+    "start": 60,
+    "end": 78
+  },
+  {
+    "type": "suppress",
+    "signal": "yaw",
+    "start": 41,
+    "end": 57
+  },
+  {
+    "type": "suppress",
+    "signal": "longitude",
+    "start": 10,
+    "end": 28
+  },
+  {
+    "type": "suppress",
+    "signal": "rudder_angle_order",
+    "start": 58,
+    "end": 76
+  },
+  {
+    "type": "suppress",
+    "signal": "wind_speed",
+    "start": 41,
+    "end": 59
+  },
+  {
+    "type": "suppress",
+    "signal": "heading",
+    "start": 73,
+    "end": 85
+  },
+  {
+    "type": "suppress",
+    "signal": "rate_of_turn",
+    "start": 35,
+    "end": 62
+  },
+  {
+    "type": "suppress",
+    "signal": "cog",
+    "start": 33,
+    "end": 49
+  },
+  {
+    "type": "suppress",
+    "signal": "wind_angle",
+    "start": 40,
+    "end": 67
+  },
+  {
+    "type": "suppress",
+    "signal": "variation",
+    "start": 50,
+    "end": 77
+  }
+]

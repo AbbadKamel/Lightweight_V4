@@ -1,0 +1,765 @@
+{
+  "scenario": "B_stealthy",
+  "config": "100s_1s",
+  "n_normal": 75,
+  "n_attacks": 75,
+  "n_total": 150,
+  "attack_shape": [
+    75,
+    100,
+    60,
+    1
+  ],
+  "attacks": [
+    {
+      "type": "drift",
+      "signal": "heading",
+      "intensity": 0.2953494183059499,
+      "duration": 0.2223042865803917,
+      "start": 38,
+      "max_drift": 0.2953494183059499,
+      "window_idx": 0,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "depth",
+      "intensity": 0,
+      "duration": 0.37686050830200246,
+      "start": 12,
+      "end": 49,
+      "window_idx": 1,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "cog",
+      "intensity": 0.2738661303402622,
+      "duration": 0.26409291786589023,
+      "start": 36,
+      "max_drift": 0.2738661303402622,
+      "window_idx": 2,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "depth",
+      "intensity": 0,
+      "duration": 0.4036669935431716,
+      "start": 1,
+      "end": 41,
+      "window_idx": 3,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "noise",
+      "signal": "depth",
+      "intensity": 0.25231401446443313,
+      "duration": 0.42752214858264487,
+      "start": 15,
+      "end": 57,
+      "window_idx": 4,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "noise",
+      "signal": "sog",
+      "intensity": 0.259965943366259,
+      "duration": 0.4098910340596552,
+      "start": 51,
+      "end": 91,
+      "window_idx": 5,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "replay",
+      "signal": "cog",
+      "intensity": 0,
+      "duration": 0.3841782329542167,
+      "source": 0,
+      "target": 43,
+      "window_idx": 6,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "heading",
+      "intensity": 0,
+      "duration": 0.30566145974568715,
+      "start": 67,
+      "end": 97,
+      "window_idx": 7,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "replay",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.42657777635799965,
+      "source": 0,
+      "target": 58,
+      "window_idx": 8,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "noise",
+      "signal": "heading",
+      "intensity": 0.10353013005429808,
+      "duration": 0.4254127154904018,
+      "start": 57,
+      "end": 99,
+      "window_idx": 9,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.21452854949189676,
+      "start": 63,
+      "end": 84,
+      "window_idx": 10,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "noise",
+      "signal": "heading",
+      "intensity": 0.2721416635586361,
+      "duration": 0.24661754213891737,
+      "start": 24,
+      "end": 48,
+      "window_idx": 11,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "heading",
+      "intensity": 0,
+      "duration": 0.44209931805244723,
+      "start": 9,
+      "end": 53,
+      "window_idx": 12,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "depth",
+      "intensity": 0.23073723782623345,
+      "duration": 0.3664682550936864,
+      "start": 31,
+      "max_drift": 0.23073723782623345,
+      "window_idx": 13,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.3695718931712084,
+      "start": 26,
+      "end": 62,
+      "window_idx": 14,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "heading",
+      "intensity": 0.25620263650635744,
+      "duration": 0.2083607595383812,
+      "start": 39,
+      "max_drift": 0.25620263650635744,
+      "window_idx": 15,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "depth",
+      "intensity": 0.18574882619566835,
+      "duration": 0.2612201073953756,
+      "start": 36,
+      "max_drift": 0.18574882619566835,
+      "window_idx": 16,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "noise",
+      "signal": "cog",
+      "intensity": 0.1988047740650699,
+      "duration": 0.43194104200519057,
+      "start": 28,
+      "end": 71,
+      "window_idx": 17,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "noise",
+      "signal": "depth",
+      "intensity": 0.2932867252824025,
+      "duration": 0.3580933960337031,
+      "start": 43,
+      "end": 78,
+      "window_idx": 18,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "replay",
+      "signal": "heading",
+      "intensity": 0,
+      "duration": 0.21143509177310513,
+      "source": 0,
+      "target": 73,
+      "window_idx": 19,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "noise",
+      "signal": "cog",
+      "intensity": 0.16236268935419454,
+      "duration": 0.49015858338507967,
+      "start": 49,
+      "end": 98,
+      "window_idx": 20,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "noise",
+      "signal": "depth",
+      "intensity": 0.11440450283138884,
+      "duration": 0.21347507933989868,
+      "start": 73,
+      "end": 94,
+      "window_idx": 21,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "cog",
+      "intensity": 0.17825666758413442,
+      "duration": 0.4752562510626285,
+      "start": 26,
+      "max_drift": 0.17825666758413442,
+      "window_idx": 22,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "depth",
+      "intensity": 0,
+      "duration": 0.46436204827897437,
+      "start": 21,
+      "end": 67,
+      "window_idx": 23,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.31629640261149733,
+      "start": 7,
+      "end": 38,
+      "window_idx": 24,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "noise",
+      "signal": "depth",
+      "intensity": 0.23706712716379227,
+      "duration": 0.4347271115900885,
+      "start": 20,
+      "end": 63,
+      "window_idx": 25,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.3938163021562699,
+      "start": 46,
+      "end": 85,
+      "window_idx": 26,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "replay",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.20868836275110714,
+      "source": 0,
+      "target": 73,
+      "window_idx": 27,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "noise",
+      "signal": "depth",
+      "intensity": 0.2691417904535115,
+      "duration": 0.2568613515640994,
+      "start": 10,
+      "end": 35,
+      "window_idx": 28,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "cog",
+      "intensity": 0,
+      "duration": 0.20004840771034932,
+      "start": 77,
+      "end": 97,
+      "window_idx": 29,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "replay",
+      "signal": "depth",
+      "intensity": 0,
+      "duration": 0.44586571948460274,
+      "source": 0,
+      "target": 53,
+      "window_idx": 30,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "sog",
+      "intensity": 0.11608775704324753,
+      "duration": 0.20956256489853461,
+      "start": 39,
+      "max_drift": 0.11608775704324753,
+      "window_idx": 31,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "cog",
+      "intensity": 0.2252490439679754,
+      "duration": 0.41452412221516444,
+      "start": 29,
+      "max_drift": 0.2252490439679754,
+      "window_idx": 32,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "noise",
+      "signal": "sog",
+      "intensity": 0.29845926704346293,
+      "duration": 0.32202664482110943,
+      "start": 7,
+      "end": 39,
+      "window_idx": 33,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "heading",
+      "intensity": 0.1252772243993419,
+      "duration": 0.3382186961165031,
+      "start": 33,
+      "max_drift": 0.1252772243993419,
+      "window_idx": 34,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "cog",
+      "intensity": 0.23286777652627458,
+      "duration": 0.2832173066173333,
+      "start": 35,
+      "max_drift": 0.23286777652627458,
+      "window_idx": 35,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.37994868115250546,
+      "start": 38,
+      "end": 75,
+      "window_idx": 36,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "replay",
+      "signal": "cog",
+      "intensity": 0,
+      "duration": 0.4125006595707611,
+      "source": 0,
+      "target": 49,
+      "window_idx": 37,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "heading",
+      "intensity": 0.2475696461714422,
+      "duration": 0.20225919487535904,
+      "start": 39,
+      "max_drift": 0.2475696461714422,
+      "window_idx": 38,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "noise",
+      "signal": "sog",
+      "intensity": 0.255370278854636,
+      "duration": 0.2022719376449627,
+      "start": 26,
+      "end": 46,
+      "window_idx": 39,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "heading",
+      "intensity": 0,
+      "duration": 0.22818550987243041,
+      "start": 19,
+      "end": 41,
+      "window_idx": 40,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "cog",
+      "intensity": 0.1275665840235214,
+      "duration": 0.25965149723308745,
+      "start": 37,
+      "max_drift": 0.1275665840235214,
+      "window_idx": 41,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "noise",
+      "signal": "cog",
+      "intensity": 0.2647480775008155,
+      "duration": 0.38935630216820766,
+      "start": 30,
+      "end": 68,
+      "window_idx": 42,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "depth",
+      "intensity": 0.2658609755559496,
+      "duration": 0.35690881968892574,
+      "start": 32,
+      "max_drift": 0.2658609755559496,
+      "window_idx": 43,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "sog",
+      "intensity": 0.19059342953427671,
+      "duration": 0.31978372704473823,
+      "start": 34,
+      "max_drift": 0.19059342953427671,
+      "window_idx": 44,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "heading",
+      "intensity": 0,
+      "duration": 0.4359570724009614,
+      "start": 14,
+      "end": 57,
+      "window_idx": 45,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.37514892105200126,
+      "start": 17,
+      "end": 54,
+      "window_idx": 46,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "cog",
+      "intensity": 0.1971164906420269,
+      "duration": 0.2991946173057479,
+      "start": 35,
+      "max_drift": 0.1971164906420269,
+      "window_idx": 47,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.29662262318729943,
+      "start": 17,
+      "end": 46,
+      "window_idx": 48,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "cog",
+      "intensity": 0.10312852858270238,
+      "duration": 0.3706433849923261,
+      "start": 31,
+      "max_drift": 0.10312852858270238,
+      "window_idx": 49,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.2192045366585254,
+      "start": 0,
+      "end": 21,
+      "window_idx": 50,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "replay",
+      "signal": "depth",
+      "intensity": 0,
+      "duration": 0.3317743076585492,
+      "source": 0,
+      "target": 61,
+      "window_idx": 51,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.46421778557735965,
+      "start": 43,
+      "end": 89,
+      "window_idx": 52,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "replay",
+      "signal": "heading",
+      "intensity": 0,
+      "duration": 0.3091963317295611,
+      "source": 0,
+      "target": 59,
+      "window_idx": 53,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "heading",
+      "intensity": 0,
+      "duration": 0.20032833636166636,
+      "start": 10,
+      "end": 30,
+      "window_idx": 54,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "replay",
+      "signal": "cog",
+      "intensity": 0,
+      "duration": 0.3703805059222598,
+      "source": 0,
+      "target": 63,
+      "window_idx": 55,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "replay",
+      "signal": "heading",
+      "intensity": 0,
+      "duration": 0.4840033146299322,
+      "source": 0,
+      "target": 46,
+      "window_idx": 56,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "replay",
+      "signal": "heading",
+      "intensity": 0,
+      "duration": 0.3163608022746888,
+      "source": 0,
+      "target": 56,
+      "window_idx": 57,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "noise",
+      "signal": "depth",
+      "intensity": 0.14407030122229836,
+      "duration": 0.49201370859398813,
+      "start": 43,
+      "end": 92,
+      "window_idx": 58,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "sog",
+      "intensity": 0.23548993261865206,
+      "duration": 0.4176298309299026,
+      "start": 29,
+      "max_drift": 0.23548993261865206,
+      "window_idx": 59,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "cog",
+      "intensity": 0.11965950921156528,
+      "duration": 0.48110390678925324,
+      "start": 25,
+      "max_drift": 0.11965950921156528,
+      "window_idx": 60,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "cog",
+      "intensity": 0,
+      "duration": 0.20011904837201525,
+      "start": 64,
+      "end": 84,
+      "window_idx": 61,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "replay",
+      "signal": "heading",
+      "intensity": 0,
+      "duration": 0.26072030423723325,
+      "source": 0,
+      "target": 65,
+      "window_idx": 62,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "replay",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.46898666037676834,
+      "source": 0,
+      "target": 49,
+      "window_idx": 63,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "depth",
+      "intensity": 0.2949834525896655,
+      "duration": 0.37493603300082734,
+      "start": 31,
+      "max_drift": 0.2949834525896655,
+      "window_idx": 64,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "depth",
+      "intensity": 0.15025742672791573,
+      "duration": 0.2477071190884745,
+      "start": 37,
+      "max_drift": 0.15025742672791573,
+      "window_idx": 65,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "sog",
+      "intensity": 0.120887731017825,
+      "duration": 0.21685564620284248,
+      "start": 39,
+      "max_drift": 0.120887731017825,
+      "window_idx": 66,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "drift",
+      "signal": "cog",
+      "intensity": 0.18444729380999036,
+      "duration": 0.37128019336198936,
+      "start": 31,
+      "max_drift": 0.18444729380999036,
+      "window_idx": 67,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "noise",
+      "signal": "depth",
+      "intensity": 0.2400168671451706,
+      "duration": 0.2684686563397874,
+      "start": 53,
+      "end": 79,
+      "window_idx": 68,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "replay",
+      "signal": "heading",
+      "intensity": 0,
+      "duration": 0.2488428009137736,
+      "source": 0,
+      "target": 44,
+      "window_idx": 69,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "cog",
+      "intensity": 0,
+      "duration": 0.32635429805987737,
+      "start": 20,
+      "end": 52,
+      "window_idx": 70,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "constant",
+      "signal": "sog",
+      "intensity": 0,
+      "duration": 0.2617410877077361,
+      "start": 47,
+      "end": 73,
+      "window_idx": 71,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "noise",
+      "signal": "sog",
+      "intensity": 0.2839195160801528,
+      "duration": 0.23994736808822642,
+      "start": 1,
+      "end": 24,
+      "window_idx": 72,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "noise",
+      "signal": "heading",
+      "intensity": 0.23254600931991637,
+      "duration": 0.2818406955269914,
+      "start": 56,
+      "end": 84,
+      "window_idx": 73,
+      "scenario": "stealthy"
+    },
+    {
+      "type": "noise",
+      "signal": "heading",
+      "intensity": 0.29422650235439574,
+      "duration": 0.4952244102881283,
+      "start": 28,
+      "end": 77,
+      "window_idx": 74,
+      "scenario": "stealthy"
+    }
+  ]
+}

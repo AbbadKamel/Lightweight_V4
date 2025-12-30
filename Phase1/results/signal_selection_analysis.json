@@ -1,0 +1,214 @@
+{
+  "total_signals": 19,
+  "aligned_timepoints": 9859,
+  "time_range_minutes": 183.31426666666667,
+  "high_correlations": [
+    {
+      "signal1": "latitude",
+      "signal2": "longitude",
+      "correlation": 0.9066046652408507
+    },
+    {
+      "signal1": "cog",
+      "signal2": "yaw",
+      "correlation": -0.7322373753390229
+    },
+    {
+      "signal1": "cog",
+      "signal2": "heading",
+      "correlation": 0.8819140214862337
+    },
+    {
+      "signal1": "sog",
+      "signal2": "speed_water",
+      "correlation": 0.9403618354378968
+    },
+    {
+      "signal1": "yaw",
+      "signal2": "heading",
+      "correlation": -0.7342477174821158
+    }
+  ],
+  "constant_signals": [
+    {
+      "signal": "latitude",
+      "std": 0.0058710998450353675,
+      "mean": 49.192064004073956,
+      "min": 49.18403217777778,
+      "max": 49.2052613
+    },
+    {
+      "signal": "longitude",
+      "std": 0.0077733577385819584,
+      "mean": -0.32590983908991833,
+      "min": -0.3452963,
+      "max": -0.3151188481481481
+    },
+    {
+      "signal": "offset",
+      "std": 0.0,
+      "mean": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    {
+      "signal": "variation",
+      "std": 0.0021829826451538917,
+      "mean": 1.0538981249860462,
+      "min": 1.0485127650894066,
+      "max": 1.059971920992023
+    }
+  ],
+  "low_coverage_signals": [
+    {
+      "signal": "speed_water",
+      "coverage_percent": 49.39649051627954,
+      "samples": 4870
+    },
+    {
+      "signal": "speed_ground",
+      "coverage_percent": 0.0,
+      "samples": 0
+    },
+    {
+      "signal": "deviation",
+      "coverage_percent": 0.0,
+      "samples": 0
+    }
+  ],
+  "signal_statistics": {
+    "latitude": {
+      "coverage_percent": 77.9186530074044,
+      "mean": 49.192064004073956,
+      "std": 0.0058710998450353675,
+      "min": 49.18403217777778,
+      "max": 49.2052613
+    },
+    "longitude": {
+      "coverage_percent": 77.9186530074044,
+      "mean": -0.32590983908991833,
+      "std": 0.0077733577385819584,
+      "min": -0.3452963,
+      "max": -0.3151188481481481
+    },
+    "depth": {
+      "coverage_percent": 73.83101734455828,
+      "mean": 7.243441540325316,
+      "std": 2.2955778623686327,
+      "min": 1.23,
+      "max": 11.28
+    },
+    "offset": {
+      "coverage_percent": 73.83101734455828,
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "rudder_angle_order": {
+      "coverage_percent": 62.26797849680496,
+      "mean": 1.06219991827042,
+      "std": 2.5646364303211775,
+      "min": -13.997358935046014,
+      "max": 11.997736230039438
+    },
+    "rudder_position": {
+      "coverage_percent": 85.95192210163303,
+      "mean": 0.26049847901281337,
+      "std": 7.531718431625739,
+      "min": -60.9627094019196,
+      "max": 64.49785899787678
+    },
+    "cog": {
+      "coverage_percent": 51.67866923623086,
+      "mean": 143.18555993549109,
+      "std": 92.86470427780179,
+      "min": 0.888084582452776,
+      "max": 359.6284192697638
+    },
+    "sog": {
+      "coverage_percent": 51.67866923623086,
+      "mean": 1.601213280994439,
+      "std": 0.5124821168950575,
+      "min": 0.0033333333333333335,
+      "max": 2.6333333333333333
+    },
+    "speed_water": {
+      "coverage_percent": 49.39649051627954,
+      "mean": 1.4891324435318276,
+      "std": 0.5089052235036783,
+      "min": 0.0,
+      "max": 2.77
+    },
+    "speed_ground": {
+      "coverage_percent": 0.0,
+      "mean": null,
+      "std": null,
+      "min": null,
+      "max": null
+    },
+    "yaw": {
+      "coverage_percent": 73.31372350136931,
+      "mean": -48.27740858503594,
+      "std": 94.17657601440206,
+      "min": -179.01429689090207,
+      "max": 179.64518708531833
+    },
+    "pitch": {
+      "coverage_percent": 73.31372350136931,
+      "mean": 1.9321197814784798,
+      "std": 0.4450650230319541,
+      "min": 0.4354479242994256,
+      "max": 3.8961130068895984
+    },
+    "roll": {
+      "coverage_percent": 73.29343746830307,
+      "mean": -0.6217696024866307,
+      "std": 0.7073159373844637,
+      "min": -3.185645340927377,
+      "max": 2.4293410513546907
+    },
+    "heading": {
+      "coverage_percent": 73.30358048483619,
+      "mean": 135.50440337634285,
+      "std": 89.21756352993273,
+      "min": 0.5729577951308232,
+      "max": 359.71563617857817
+    },
+    "deviation": {
+      "coverage_percent": 0.0,
+      "mean": null,
+      "std": null,
+      "min": null,
+      "max": null
+    },
+    "variation": {
+      "coverage_percent": 73.30358048483619,
+      "mean": 1.0538981249860462,
+      "std": 0.0021829826451538917,
+      "min": 1.0485127650894066,
+      "max": 1.059971920992023
+    },
+    "rate_of_turn": {
+      "coverage_percent": 73.43543969976672,
+      "mean": -0.15108344116269962,
+      "std": 1.3904308325560106,
+      "min": -8.052202032333588,
+      "max": 10.680663822427336
+    },
+    "wind_speed": {
+      "coverage_percent": 74.50045643574398,
+      "mean": 2.331864440624968,
+      "std": 1.2809178627605071,
+      "min": 0.0,
+      "max": 6.568888888888889
+    },
+    "wind_angle": {
+      "coverage_percent": 74.50045643574398,
+      "mean": 160.7786674726925,
+      "std": 124.72156860698885,
+      "min": 0.0,
+      "max": 358.99816569511995
+    }
+  }
+}

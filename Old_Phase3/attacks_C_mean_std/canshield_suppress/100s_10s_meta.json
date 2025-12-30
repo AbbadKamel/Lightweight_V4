@@ -1,0 +1,44 @@
+[
+  {
+    "type": "suppress",
+    "signal": "cog",
+    "start": 31,
+    "end": 47
+  },
+  {
+    "type": "suppress",
+    "signal": "yaw",
+    "start": 37,
+    "end": 65
+  },
+  {
+    "type": "suppress",
+    "signal": "wind_angle",
+    "start": 26,
+    "end": 43
+  },
+  {
+    "type": "suppress",
+    "signal": "latitude",
+    "start": 15,
+    "end": 39
+  },
+  {
+    "type": "suppress",
+    "signal": "rate_of_turn",
+    "start": 55,
+    "end": 77
+  },
+  {
+    "type": "suppress",
+    "signal": "roll",
+    "start": 22,
+    "end": 32
+  },
+  {
+    "type": "suppress",
+    "signal": "heading",
+    "start": 41,
+    "end": 53
+  }
+]

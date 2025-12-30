@@ -1,0 +1,44 @@
+[
+  {
+    "type": "continuous",
+    "signal": "roll",
+    "start": 44,
+    "end": 86
+  },
+  {
+    "type": "continuous",
+    "signal": "heading",
+    "start": 17,
+    "end": 65
+  },
+  {
+    "type": "continuous",
+    "signal": "variation",
+    "start": 14,
+    "end": 66
+  },
+  {
+    "type": "continuous",
+    "signal": "heading",
+    "start": 24,
+    "end": 77
+  },
+  {
+    "type": "continuous",
+    "signal": "heading",
+    "start": 20,
+    "end": 70
+  },
+  {
+    "type": "continuous",
+    "signal": "wind_angle",
+    "start": 10,
+    "end": 50
+  },
+  {
+    "type": "continuous",
+    "signal": "longitude",
+    "start": 24,
+    "end": 53
+  }
+]

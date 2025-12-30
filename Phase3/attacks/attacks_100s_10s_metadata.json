@@ -1,0 +1,1802 @@
+[
+  {
+    "attack_type": "spike",
+    "target_signal": "depth",
+    "intensity": "extreme",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "latitude",
+    "intensity": "low",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "latitude",
+    "intensity": "extreme",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "depth",
+    "intensity": "extreme",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "sog",
+    "intensity": "high",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "cog",
+    "intensity": "high",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "sog",
+    "intensity": "medium",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "heading",
+    "intensity": "extreme",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "depth",
+    "intensity": "extreme",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "heading",
+    "intensity": "high",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "longitude",
+    "intensity": "medium",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "latitude",
+    "intensity": "low",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "latitude",
+    "intensity": "extreme",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "longitude",
+    "intensity": "medium",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "latitude",
+    "intensity": "extreme",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "longitude",
+    "intensity": "low",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "latitude",
+    "intensity": "high",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "latitude",
+    "intensity": "high",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "heading",
+    "intensity": "extreme",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "rudder_position",
+    "intensity": "medium",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "depth",
+    "intensity": "low",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "rudder_position",
+    "intensity": "medium",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "sog",
+    "intensity": "high",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "longitude",
+    "intensity": "low",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "sog",
+    "intensity": "medium",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "longitude",
+    "intensity": "medium",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "rudder_position",
+    "intensity": "low",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "heading",
+    "intensity": "extreme",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "cog",
+    "intensity": "low",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "heading",
+    "intensity": "extreme",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "longitude",
+    "intensity": "high",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "heading",
+    "intensity": "high",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "sog",
+    "intensity": "extreme",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "heading",
+    "intensity": "low",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "latitude",
+    "intensity": "low",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "rudder_position",
+    "intensity": "low",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "sog",
+    "intensity": "low",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "cog",
+    "intensity": "extreme",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "depth",
+    "intensity": "low",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "heading",
+    "intensity": "low",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "rudder_position",
+    "intensity": "high",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "rudder_position",
+    "intensity": "medium",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "rudder_position",
+    "intensity": "high",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "heading",
+    "intensity": "high",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "rudder_position",
+    "intensity": "high",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "longitude",
+    "intensity": "extreme",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "cog",
+    "intensity": "low",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "longitude",
+    "intensity": "high",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "cog",
+    "intensity": "extreme",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "spike",
+    "target_signal": "latitude",
+    "intensity": "extreme",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "depth",
+    "intensity": "high",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "depth",
+    "intensity": "high",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "cog",
+    "intensity": "medium",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "longitude",
+    "intensity": "low",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "longitude",
+    "intensity": "high",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "sog",
+    "intensity": "low",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "sog",
+    "intensity": "low",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "longitude",
+    "intensity": "high",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "sog",
+    "intensity": "low",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "heading",
+    "intensity": "high",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "depth",
+    "intensity": "medium",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "cog",
+    "intensity": "high",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "cog",
+    "intensity": "low",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "latitude",
+    "intensity": "extreme",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "cog",
+    "intensity": "medium",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "latitude",
+    "intensity": "medium",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "latitude",
+    "intensity": "medium",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "heading",
+    "intensity": "extreme",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "latitude",
+    "intensity": "high",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "depth",
+    "intensity": "extreme",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "rudder_position",
+    "intensity": "low",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "latitude",
+    "intensity": "medium",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "cog",
+    "intensity": "extreme",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "sog",
+    "intensity": "medium",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "sog",
+    "intensity": "low",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "depth",
+    "intensity": "high",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "latitude",
+    "intensity": "high",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "longitude",
+    "intensity": "extreme",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "sog",
+    "intensity": "high",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "sog",
+    "intensity": "low",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "latitude",
+    "intensity": "high",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "cog",
+    "intensity": "low",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "depth",
+    "intensity": "medium",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "longitude",
+    "intensity": "low",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "longitude",
+    "intensity": "high",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "latitude",
+    "intensity": "extreme",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "heading",
+    "intensity": "low",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "latitude",
+    "intensity": "high",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "heading",
+    "intensity": "high",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "rudder_position",
+    "intensity": "extreme",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "rudder_position",
+    "intensity": "low",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "latitude",
+    "intensity": "medium",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "latitude",
+    "intensity": "low",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "latitude",
+    "intensity": "low",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "latitude",
+    "intensity": "extreme",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "depth",
+    "intensity": "high",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "latitude",
+    "intensity": "medium",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "sog",
+    "intensity": "high",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "heading",
+    "intensity": "extreme",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "constant",
+    "target_signal": "latitude",
+    "intensity": "high",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "rudder_position",
+    "intensity": "medium",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "depth",
+    "intensity": "extreme",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "depth",
+    "intensity": "low",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "heading",
+    "intensity": "low",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "sog",
+    "intensity": "medium",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "depth",
+    "intensity": "extreme",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "cog",
+    "intensity": "low",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "latitude",
+    "intensity": "medium",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "rudder_position",
+    "intensity": "high",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "sog",
+    "intensity": "high",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "depth",
+    "intensity": "medium",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "latitude",
+    "intensity": "extreme",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "latitude",
+    "intensity": "extreme",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "sog",
+    "intensity": "high",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "sog",
+    "intensity": "high",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "heading",
+    "intensity": "extreme",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "longitude",
+    "intensity": "extreme",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "latitude",
+    "intensity": "medium",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "sog",
+    "intensity": "high",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "heading",
+    "intensity": "high",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "depth",
+    "intensity": "high",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "heading",
+    "intensity": "low",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "latitude",
+    "intensity": "high",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "latitude",
+    "intensity": "high",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "latitude",
+    "intensity": "low",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "depth",
+    "intensity": "medium",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "sog",
+    "intensity": "extreme",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "heading",
+    "intensity": "high",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "longitude",
+    "intensity": "extreme",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "sog",
+    "intensity": "extreme",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "cog",
+    "intensity": "medium",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "longitude",
+    "intensity": "low",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "cog",
+    "intensity": "medium",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "rudder_position",
+    "intensity": "high",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "cog",
+    "intensity": "medium",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "cog",
+    "intensity": "low",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "cog",
+    "intensity": "medium",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "latitude",
+    "intensity": "high",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "latitude",
+    "intensity": "high",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "heading",
+    "intensity": "high",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "longitude",
+    "intensity": "high",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "longitude",
+    "intensity": "medium",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "depth",
+    "intensity": "low",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "cog",
+    "intensity": "medium",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "longitude",
+    "intensity": "high",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "depth",
+    "intensity": "high",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "heading",
+    "intensity": "high",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "latitude",
+    "intensity": "extreme",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "depth",
+    "intensity": "extreme",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "replay",
+    "target_signal": "latitude",
+    "intensity": "medium",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "latitude",
+    "intensity": "low",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "sog",
+    "intensity": "high",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "depth",
+    "intensity": "medium",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "cog",
+    "intensity": "medium",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "latitude",
+    "intensity": "extreme",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "latitude",
+    "intensity": "extreme",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "depth",
+    "intensity": "extreme",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "longitude",
+    "intensity": "medium",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "cog",
+    "intensity": "medium",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "sog",
+    "intensity": "low",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "heading",
+    "intensity": "low",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "cog",
+    "intensity": "high",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "rudder_position",
+    "intensity": "extreme",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "sog",
+    "intensity": "low",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "depth",
+    "intensity": "high",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "longitude",
+    "intensity": "extreme",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "sog",
+    "intensity": "high",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "rudder_position",
+    "intensity": "medium",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "heading",
+    "intensity": "low",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "longitude",
+    "intensity": "medium",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "depth",
+    "intensity": "high",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "longitude",
+    "intensity": "high",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "latitude",
+    "intensity": "medium",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "cog",
+    "intensity": "high",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "rudder_position",
+    "intensity": "low",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "rudder_position",
+    "intensity": "low",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "longitude",
+    "intensity": "extreme",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "longitude",
+    "intensity": "low",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "cog",
+    "intensity": "medium",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "cog",
+    "intensity": "extreme",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "cog",
+    "intensity": "extreme",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "longitude",
+    "intensity": "extreme",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "depth",
+    "intensity": "medium",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "depth",
+    "intensity": "extreme",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "longitude",
+    "intensity": "high",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "latitude",
+    "intensity": "medium",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "sog",
+    "intensity": "medium",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "cog",
+    "intensity": "low",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "depth",
+    "intensity": "extreme",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "cog",
+    "intensity": "extreme",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "sog",
+    "intensity": "high",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "cog",
+    "intensity": "extreme",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "longitude",
+    "intensity": "low",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "latitude",
+    "intensity": "high",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "heading",
+    "intensity": "low",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "rudder_position",
+    "intensity": "low",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "longitude",
+    "intensity": "low",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "depth",
+    "intensity": "high",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "heading",
+    "intensity": "low",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "drift",
+    "target_signal": "heading",
+    "intensity": "low",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "rudder_position",
+    "intensity": "extreme",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "depth",
+    "intensity": "low",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "heading",
+    "intensity": "low",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "sog",
+    "intensity": "low",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "rudder_position",
+    "intensity": "extreme",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "latitude",
+    "intensity": "low",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "sog",
+    "intensity": "medium",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "latitude",
+    "intensity": "high",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "heading",
+    "intensity": "high",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "latitude",
+    "intensity": "high",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "latitude",
+    "intensity": "extreme",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "sog",
+    "intensity": "medium",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "sog",
+    "intensity": "high",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "longitude",
+    "intensity": "low",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "latitude",
+    "intensity": "low",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "latitude",
+    "intensity": "extreme",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "heading",
+    "intensity": "high",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "heading",
+    "intensity": "high",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "depth",
+    "intensity": "high",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "rudder_position",
+    "intensity": "medium",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "latitude",
+    "intensity": "medium",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "heading",
+    "intensity": "low",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "sog",
+    "intensity": "high",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "sog",
+    "intensity": "low",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "cog",
+    "intensity": "low",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "latitude",
+    "intensity": "medium",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "heading",
+    "intensity": "extreme",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "latitude",
+    "intensity": "low",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "latitude",
+    "intensity": "extreme",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "heading",
+    "intensity": "medium",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "sog",
+    "intensity": "extreme",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "depth",
+    "intensity": "extreme",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "depth",
+    "intensity": "high",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "rudder_position",
+    "intensity": "medium",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "heading",
+    "intensity": "extreme",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "sog",
+    "intensity": "low",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "longitude",
+    "intensity": "low",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "latitude",
+    "intensity": "high",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "rudder_position",
+    "intensity": "low",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "heading",
+    "intensity": "extreme",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "heading",
+    "intensity": "extreme",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "depth",
+    "intensity": "extreme",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "latitude",
+    "intensity": "medium",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "cog",
+    "intensity": "low",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "heading",
+    "intensity": "medium",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "sog",
+    "intensity": "low",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "depth",
+    "intensity": "medium",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "depth",
+    "intensity": "medium",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "latitude",
+    "intensity": "low",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "noise",
+    "target_signal": "cog",
+    "intensity": "low",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "depth",
+    "intensity": "high",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "sog",
+    "intensity": "low",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "sog",
+    "intensity": "medium",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "sog",
+    "intensity": "low",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "latitude",
+    "intensity": "medium",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "latitude",
+    "intensity": "low",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "depth",
+    "intensity": "extreme",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "longitude",
+    "intensity": "medium",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "cog",
+    "intensity": "low",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "depth",
+    "intensity": "extreme",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "longitude",
+    "intensity": "high",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "depth",
+    "intensity": "high",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "sog",
+    "intensity": "low",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "latitude",
+    "intensity": "extreme",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "latitude",
+    "intensity": "high",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "rudder_position",
+    "intensity": "high",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "sog",
+    "intensity": "high",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "latitude",
+    "intensity": "extreme",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "latitude",
+    "intensity": "high",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "latitude",
+    "intensity": "extreme",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "latitude",
+    "intensity": "high",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "sog",
+    "intensity": "high",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "depth",
+    "intensity": "high",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "latitude",
+    "intensity": "extreme",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "depth",
+    "intensity": "extreme",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "heading",
+    "intensity": "low",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "cog",
+    "intensity": "low",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "cog",
+    "intensity": "extreme",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "cog",
+    "intensity": "medium",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "sog",
+    "intensity": "extreme",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "latitude",
+    "intensity": "extreme",
+    "origin_idx": 0
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "rudder_position",
+    "intensity": "high",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "heading",
+    "intensity": "low",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "sog",
+    "intensity": "medium",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "rudder_position",
+    "intensity": "extreme",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "latitude",
+    "intensity": "high",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "depth",
+    "intensity": "low",
+    "origin_idx": 1
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "sog",
+    "intensity": "high",
+    "origin_idx": 6
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "longitude",
+    "intensity": "low",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "depth",
+    "intensity": "low",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "heading",
+    "intensity": "medium",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "sog",
+    "intensity": "extreme",
+    "origin_idx": 3
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "latitude",
+    "intensity": "high",
+    "origin_idx": 2
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "heading",
+    "intensity": "low",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "longitude",
+    "intensity": "medium",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "longitude",
+    "intensity": "high",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "cog",
+    "intensity": "low",
+    "origin_idx": 4
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "rudder_position",
+    "intensity": "high",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "sog",
+    "intensity": "low",
+    "origin_idx": 5
+  },
+  {
+    "attack_type": "scaling",
+    "target_signal": "cog",
+    "intensity": "extreme",
+    "origin_idx": 3
+  }
+]

@@ -1,0 +1,416 @@
+{
+    "50s_1s": {
+        "plateau": {
+            "tp": 11,
+            "fn": 65,
+            "fp": 12,
+            "tn": 64,
+            "accuracy": 0.4934210526315789,
+            "precision": 0.4782608695652174,
+            "recall": 0.14473684210526316,
+            "f1_score": 0.2222222222222222,
+            "detection_rate": 0.14473684210526316
+        },
+        "continuous": {
+            "tp": 11,
+            "fn": 65,
+            "fp": 12,
+            "tn": 64,
+            "accuracy": 0.4934210526315789,
+            "precision": 0.4782608695652174,
+            "recall": 0.14473684210526316,
+            "f1_score": 0.2222222222222222,
+            "detection_rate": 0.14473684210526316
+        },
+        "playback": {
+            "tp": 11,
+            "fn": 65,
+            "fp": 12,
+            "tn": 64,
+            "accuracy": 0.4934210526315789,
+            "precision": 0.4782608695652174,
+            "recall": 0.14473684210526316,
+            "f1_score": 0.2222222222222222,
+            "detection_rate": 0.14473684210526316
+        },
+        "suppress": {
+            "tp": 12,
+            "fn": 64,
+            "fp": 12,
+            "tn": 64,
+            "accuracy": 0.5,
+            "precision": 0.5,
+            "recall": 0.15789473684210525,
+            "f1_score": 0.23999999999999996,
+            "detection_rate": 0.15789473684210525
+        }
+    },
+    "50s_5s": {
+        "plateau": {
+            "tp": 5,
+            "fn": 10,
+            "fp": 4,
+            "tn": 11,
+            "accuracy": 0.5333333333333333,
+            "precision": 0.5555555555555556,
+            "recall": 0.3333333333333333,
+            "f1_score": 0.4166666666666667,
+            "detection_rate": 0.3333333333333333
+        },
+        "continuous": {
+            "tp": 5,
+            "fn": 10,
+            "fp": 4,
+            "tn": 11,
+            "accuracy": 0.5333333333333333,
+            "precision": 0.5555555555555556,
+            "recall": 0.3333333333333333,
+            "f1_score": 0.4166666666666667,
+            "detection_rate": 0.3333333333333333
+        },
+        "playback": {
+            "tp": 3,
+            "fn": 12,
+            "fp": 4,
+            "tn": 11,
+            "accuracy": 0.4666666666666667,
+            "precision": 0.42857142857142855,
+            "recall": 0.2,
+            "f1_score": 0.27272727272727276,
+            "detection_rate": 0.2
+        },
+        "suppress": {
+            "tp": 5,
+            "fn": 10,
+            "fp": 4,
+            "tn": 11,
+            "accuracy": 0.5333333333333333,
+            "precision": 0.5555555555555556,
+            "recall": 0.3333333333333333,
+            "f1_score": 0.4166666666666667,
+            "detection_rate": 0.3333333333333333
+        }
+    },
+    "50s_10s": {
+        "plateau": {
+            "tp": 6,
+            "fn": 2,
+            "fp": 6,
+            "tn": 2,
+            "accuracy": 0.5,
+            "precision": 0.5,
+            "recall": 0.75,
+            "f1_score": 0.6,
+            "detection_rate": 0.75
+        },
+        "continuous": {
+            "tp": 6,
+            "fn": 2,
+            "fp": 6,
+            "tn": 2,
+            "accuracy": 0.5,
+            "precision": 0.5,
+            "recall": 0.75,
+            "f1_score": 0.6,
+            "detection_rate": 0.75
+        },
+        "playback": {
+            "tp": 6,
+            "fn": 2,
+            "fp": 6,
+            "tn": 2,
+            "accuracy": 0.5,
+            "precision": 0.5,
+            "recall": 0.75,
+            "f1_score": 0.6,
+            "detection_rate": 0.75
+        },
+        "suppress": {
+            "tp": 6,
+            "fn": 2,
+            "fp": 6,
+            "tn": 2,
+            "accuracy": 0.5,
+            "precision": 0.5,
+            "recall": 0.75,
+            "f1_score": 0.6,
+            "detection_rate": 0.75
+        }
+    },
+    "75s_1s": {
+        "plateau": {
+            "tp": 23,
+            "fn": 53,
+            "fp": 23,
+            "tn": 53,
+            "accuracy": 0.5,
+            "precision": 0.5,
+            "recall": 0.3026315789473684,
+            "f1_score": 0.3770491803278689,
+            "detection_rate": 0.3026315789473684
+        },
+        "continuous": {
+            "tp": 23,
+            "fn": 53,
+            "fp": 23,
+            "tn": 53,
+            "accuracy": 0.5,
+            "precision": 0.5,
+            "recall": 0.3026315789473684,
+            "f1_score": 0.3770491803278689,
+            "detection_rate": 0.3026315789473684
+        },
+        "playback": {
+            "tp": 24,
+            "fn": 52,
+            "fp": 23,
+            "tn": 53,
+            "accuracy": 0.506578947368421,
+            "precision": 0.5106382978723404,
+            "recall": 0.3157894736842105,
+            "f1_score": 0.39024390243902435,
+            "detection_rate": 0.3157894736842105
+        },
+        "suppress": {
+            "tp": 25,
+            "fn": 51,
+            "fp": 23,
+            "tn": 53,
+            "accuracy": 0.5131578947368421,
+            "precision": 0.5208333333333334,
+            "recall": 0.32894736842105265,
+            "f1_score": 0.4032258064516129,
+            "detection_rate": 0.32894736842105265
+        }
+    },
+    "75s_5s": {
+        "plateau": {
+            "tp": 5,
+            "fn": 10,
+            "fp": 4,
+            "tn": 11,
+            "accuracy": 0.5333333333333333,
+            "precision": 0.5555555555555556,
+            "recall": 0.3333333333333333,
+            "f1_score": 0.4166666666666667,
+            "detection_rate": 0.3333333333333333
+        },
+        "continuous": {
+            "tp": 5,
+            "fn": 10,
+            "fp": 4,
+            "tn": 11,
+            "accuracy": 0.5333333333333333,
+            "precision": 0.5555555555555556,
+            "recall": 0.3333333333333333,
+            "f1_score": 0.4166666666666667,
+            "detection_rate": 0.3333333333333333
+        },
+        "playback": {
+            "tp": 5,
+            "fn": 10,
+            "fp": 4,
+            "tn": 11,
+            "accuracy": 0.5333333333333333,
+            "precision": 0.5555555555555556,
+            "recall": 0.3333333333333333,
+            "f1_score": 0.4166666666666667,
+            "detection_rate": 0.3333333333333333
+        },
+        "suppress": {
+            "tp": 9,
+            "fn": 6,
+            "fp": 4,
+            "tn": 11,
+            "accuracy": 0.6666666666666666,
+            "precision": 0.6923076923076923,
+            "recall": 0.6,
+            "f1_score": 0.6428571428571429,
+            "detection_rate": 0.6
+        }
+    },
+    "75s_10s": {
+        "plateau": {
+            "tp": 7,
+            "fn": 0,
+            "fp": 7,
+            "tn": 0,
+            "accuracy": 0.5,
+            "precision": 0.5,
+            "recall": 1.0,
+            "f1_score": 0.6666666666666666,
+            "detection_rate": 1.0
+        },
+        "continuous": {
+            "tp": 7,
+            "fn": 0,
+            "fp": 7,
+            "tn": 0,
+            "accuracy": 0.5,
+            "precision": 0.5,
+            "recall": 1.0,
+            "f1_score": 0.6666666666666666,
+            "detection_rate": 1.0
+        },
+        "playback": {
+            "tp": 7,
+            "fn": 0,
+            "fp": 7,
+            "tn": 0,
+            "accuracy": 0.5,
+            "precision": 0.5,
+            "recall": 1.0,
+            "f1_score": 0.6666666666666666,
+            "detection_rate": 1.0
+        },
+        "suppress": {
+            "tp": 7,
+            "fn": 0,
+            "fp": 7,
+            "tn": 0,
+            "accuracy": 0.5,
+            "precision": 0.5,
+            "recall": 1.0,
+            "f1_score": 0.6666666666666666,
+            "detection_rate": 1.0
+        }
+    },
+    "100s_1s": {
+        "plateau": {
+            "tp": 26,
+            "fn": 49,
+            "fp": 26,
+            "tn": 49,
+            "accuracy": 0.5,
+            "precision": 0.5,
+            "recall": 0.3466666666666667,
+            "f1_score": 0.4094488188976378,
+            "detection_rate": 0.3466666666666667
+        },
+        "continuous": {
+            "tp": 26,
+            "fn": 49,
+            "fp": 26,
+            "tn": 49,
+            "accuracy": 0.5,
+            "precision": 0.5,
+            "recall": 0.3466666666666667,
+            "f1_score": 0.4094488188976378,
+            "detection_rate": 0.3466666666666667
+        },
+        "playback": {
+            "tp": 26,
+            "fn": 49,
+            "fp": 26,
+            "tn": 49,
+            "accuracy": 0.5,
+            "precision": 0.5,
+            "recall": 0.3466666666666667,
+            "f1_score": 0.4094488188976378,
+            "detection_rate": 0.3466666666666667
+        },
+        "suppress": {
+            "tp": 28,
+            "fn": 47,
+            "fp": 26,
+            "tn": 49,
+            "accuracy": 0.5133333333333333,
+            "precision": 0.5185185185185185,
+            "recall": 0.37333333333333335,
+            "f1_score": 0.43410852713178294,
+            "detection_rate": 0.37333333333333335
+        }
+    },
+    "100s_5s": {
+        "plateau": {
+            "tp": 8,
+            "fn": 6,
+            "fp": 8,
+            "tn": 6,
+            "accuracy": 0.5,
+            "precision": 0.5,
+            "recall": 0.5714285714285714,
+            "f1_score": 0.5333333333333333,
+            "detection_rate": 0.5714285714285714
+        },
+        "continuous": {
+            "tp": 9,
+            "fn": 5,
+            "fp": 8,
+            "tn": 6,
+            "accuracy": 0.5357142857142857,
+            "precision": 0.5294117647058824,
+            "recall": 0.6428571428571429,
+            "f1_score": 0.5806451612903226,
+            "detection_rate": 0.6428571428571429
+        },
+        "playback": {
+            "tp": 8,
+            "fn": 6,
+            "fp": 8,
+            "tn": 6,
+            "accuracy": 0.5,
+            "precision": 0.5,
+            "recall": 0.5714285714285714,
+            "f1_score": 0.5333333333333333,
+            "detection_rate": 0.5714285714285714
+        },
+        "suppress": {
+            "tp": 10,
+            "fn": 4,
+            "fp": 8,
+            "tn": 6,
+            "accuracy": 0.5714285714285714,
+            "precision": 0.5555555555555556,
+            "recall": 0.7142857142857143,
+            "f1_score": 0.6250000000000001,
+            "detection_rate": 0.7142857142857143
+        }
+    },
+    "100s_10s": {
+        "plateau": {
+            "tp": 7,
+            "fn": 0,
+            "fp": 7,
+            "tn": 0,
+            "accuracy": 0.5,
+            "precision": 0.5,
+            "recall": 1.0,
+            "f1_score": 0.6666666666666666,
+            "detection_rate": 1.0
+        },
+        "continuous": {
+            "tp": 7,
+            "fn": 0,
+            "fp": 7,
+            "tn": 0,
+            "accuracy": 0.5,
+            "precision": 0.5,
+            "recall": 1.0,
+            "f1_score": 0.6666666666666666,
+            "detection_rate": 1.0
+        },
+        "playback": {
+            "tp": 7,
+            "fn": 0,
+            "fp": 7,
+            "tn": 0,
+            "accuracy": 0.5,
+            "precision": 0.5,
+            "recall": 1.0,
+            "f1_score": 0.6666666666666666,
+            "detection_rate": 1.0
+        },
+        "suppress": {
+            "tp": 7,
+            "fn": 0,
+            "fp": 7,
+            "tn": 0,
+            "accuracy": 0.5,
+            "precision": 0.5,
+            "recall": 1.0,
+            "f1_score": 0.6666666666666666,
+            "detection_rate": 1.0
+        }
+    }
+}

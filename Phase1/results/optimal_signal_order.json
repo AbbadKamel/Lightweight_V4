@@ -1,0 +1,22 @@
+{
+  "clustered_order": [
+    "wind_speed",
+    "wind_angle",
+    "yaw",
+    "cog",
+    "heading",
+    "roll",
+    "rudder_angle_order",
+    "rudder_position",
+    "rate_of_turn",
+    "depth",
+    "variation",
+    "latitude",
+    "longitude",
+    "pitch",
+    "sog"
+  ],
+  "description": "Final clustered order (15 signals). Removed speed_water due to 100% NaN (sensor update rate slower than 1s bucket).",
+  "removed_signals": ["speed_water"],
+  "removal_reason": "Speed PGN (128259) sends at 1089ms intervals, resulting in 100% NaN in 1-second buckets. SOG provides equivalent speed information."
+}
